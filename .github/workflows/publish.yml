@@ -1,0 +1,32 @@
+name: publish-insider-flow
+
+on:
+  schedule:
+    - cron: "30 22 * * 1-5"   # weekdays, after US close (UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: pip install -r requirements.txt
+      - name: Build feed
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        run: |
+          python src/build_feed.py
+          python scripts/post_text.py
+      - name: Publish out/ to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          # Served at: https://<user>.github.io/insider_flow/insider_flow.json

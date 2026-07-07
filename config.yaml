@@ -1,0 +1,23 @@
+service: insider_flow
+schema_version: "1.0"
+ttl_hours: 48
+
+# Look back this many days of insider (Form 4) transactions.
+lookback_days: 90
+top_n: 20
+
+# Universe to scan (one ticker per line). Kept modest to respect Finnhub free rate limits.
+universe_file: universe.txt
+
+# Finnhub insider-transactions endpoint (needs a key). The value lives in .env / CI secret;
+# this is only the NAME of the env var.
+provider: finnhub
+api_key_env: FINNHUB_API_KEY
+base_url: "https://finnhub.io/api/v1"
+request_sleep_sec: 1.1     # ~55 req/min, under the free 60/min limit
+max_tickers: 60
+
+# Only open-market buys (P) and sales (S) count toward the flow score.
+min_abs_score: 0.05
+
+feed_url: "https://HunHospak.github.io/insider_flow/insider_flow.json"
