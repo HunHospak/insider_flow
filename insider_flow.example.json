@@ -1,0 +1,41 @@
+{
+  "service": "insider_flow",
+  "schema_version": "1.0",
+  "generated_at": "2026-07-07T11:44:04+00:00",
+  "status": "active",
+  "ttl_hours": 48,
+  "data": {
+    "as_of": "2026-07-07",
+    "scanned": 4,
+    "with_activity": 2,
+    "accumulating": [
+      {
+        "ticker": "AAPL",
+        "score": 1.0,
+        "net_shares": 15000,
+        "buys": 2,
+        "sells": 0
+      }
+    ],
+    "distributing": [
+      {
+        "ticker": "TSLA",
+        "score": -0.818,
+        "net_shares": -18000,
+        "buys": 1,
+        "sells": 1
+      }
+    ],
+    "by_ticker": {
+      "AAPL": {
+        "score": 1.0,
+        "net_shares": 15000
+      },
+      "TSLA": {
+        "score": -0.818,
+        "net_shares": -18000
+      }
+    },
+    "disclaimer": "x"
+  }
+}
