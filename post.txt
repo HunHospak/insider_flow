@@ -1,4 +1,4 @@
-Insider flow — 2026-07-07
+Insider flow — 2026-07-08
 Insiders accumulating:
   BA  score +1.00  (1B/0S)
   NKE  score +0.63  (4B/1S)
