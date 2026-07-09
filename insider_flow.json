@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-07-08T23:37:57+00:00",
+  "generated_at": "2026-07-09T23:47:31+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-07-08",
+    "as_of": "2026-07-09",
     "scanned": 40,
-    "with_activity": 30,
+    "with_activity": 31,
     "accumulating": [
       {
         "ticker": "BA",
@@ -18,9 +18,9 @@
       },
       {
         "ticker": "NKE",
-        "score": 0.629,
-        "net_shares": 58922,
-        "buys": 4,
+        "score": 0.612,
+        "net_shares": 54922,
+        "buys": 3,
         "sells": 1
       }
     ],
@@ -49,23 +49,23 @@
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -194774,
-        "buys": 0,
-        "sells": 36
-      },
-      {
-        "ticker": "GOOGL",
-        "score": -1.0,
-        "net_shares": -3354,
+        "net_shares": -195774,
         "buys": 0,
         "sells": 37
       },
       {
+        "ticker": "GOOGL",
+        "score": -1.0,
+        "net_shares": -12352,
+        "buys": 0,
+        "sells": 45
+      },
+      {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -39422,
+        "net_shares": -39922,
         "buys": 0,
-        "sells": 80
+        "sells": 81
       },
       {
         "ticker": "TSLA",
@@ -91,9 +91,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -42094,
+        "net_shares": -54611,
         "buys": 0,
-        "sells": 2
+        "sells": 5
       },
       {
         "ticker": "UNH",
@@ -101,6 +101,13 @@
         "net_shares": -800,
         "buys": 0,
         "sells": 1
+      },
+      {
+        "ticker": "MA",
+        "score": -1.0,
+        "net_shares": -21065,
+        "buys": 0,
+        "sells": 3
       },
       {
         "ticker": "COST",
@@ -133,9 +140,9 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -8882434,
+        "net_shares": -8886209,
         "buys": 0,
-        "sells": 28
+        "sells": 29
       },
       {
         "ticker": "BAC",
@@ -157,13 +164,6 @@
         "net_shares": -575000,
         "buys": 0,
         "sells": 10
-      },
-      {
-        "ticker": "ORCL",
-        "score": -1.0,
-        "net_shares": -415000,
-        "buys": 0,
-        "sells": 12
       }
     ],
     "by_ticker": {
@@ -181,15 +181,15 @@
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -194774
+        "net_shares": -195774
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -3354
+        "net_shares": -12352
       },
       "META": {
         "score": -1.0,
-        "net_shares": -39422
+        "net_shares": -39922
       },
       "TSLA": {
         "score": -1.0,
@@ -197,7 +197,7 @@
       },
       "AVGO": {
         "score": -0.997,
-        "net_shares": -687653
+        "net_shares": -670995
       },
       "LLY": {
         "score": -1.0,
@@ -209,11 +209,15 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -42094
+        "net_shares": -54611
       },
       "UNH": {
         "score": -1.0,
         "net_shares": -800
+      },
+      "MA": {
+        "score": -1.0,
+        "net_shares": -21065
       },
       "COST": {
         "score": -1.0,
@@ -233,7 +237,7 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -8882434
+        "net_shares": -8886209
       },
       "BAC": {
         "score": -1.0,
@@ -280,8 +284,8 @@
         "net_shares": -2000
       },
       "NKE": {
-        "score": 0.629,
-        "net_shares": 58922
+        "score": 0.612,
+        "net_shares": 54922
       },
       "BA": {
         "score": 1.0,
