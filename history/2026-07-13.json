@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-07-10T23:31:53+00:00",
+  "generated_at": "2026-07-13T23:27:52+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-07-10",
+    "as_of": "2026-07-13",
     "scanned": 40,
     "with_activity": 31,
     "accumulating": [
@@ -15,13 +15,6 @@
         "net_shares": 1370,
         "buys": 1,
         "sells": 0
-      },
-      {
-        "ticker": "NKE",
-        "score": 0.462,
-        "net_shares": 29922,
-        "buys": 2,
-        "sells": 1
       }
     ],
     "distributing": [
@@ -63,9 +56,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -39922,
+        "net_shares": -35257,
         "buys": 0,
-        "sells": 81
+        "sells": 61
       },
       {
         "ticker": "TSLA",
@@ -189,7 +182,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -39922
+        "net_shares": -35257
       },
       "TSLA": {
         "score": -1.0,
@@ -269,7 +262,7 @@
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -31529
+        "net_shares": -29029
       },
       "TXN": {
         "score": -1.0,
@@ -284,8 +277,8 @@
         "net_shares": -2000
       },
       "NKE": {
-        "score": 0.462,
-        "net_shares": 29922
+        "score": -1.0,
+        "net_shares": -17398
       },
       "BA": {
         "score": 1.0,
