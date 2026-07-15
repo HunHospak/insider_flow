@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-07-14T23:27:06+00:00",
+  "generated_at": "2026-07-15T23:31:06+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-07-14",
+    "as_of": "2026-07-15",
     "scanned": 40,
     "with_activity": 31,
     "accumulating": [
@@ -49,16 +49,16 @@
       {
         "ticker": "GOOGL",
         "score": -1.0,
-        "net_shares": -12352,
+        "net_shares": -11302,
         "buys": 0,
-        "sells": 45
+        "sells": 33
       },
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -35257,
+        "net_shares": -34677,
         "buys": 0,
-        "sells": 61
+        "sells": 60
       },
       {
         "ticker": "TSLA",
@@ -77,9 +77,9 @@
       {
         "ticker": "JPM",
         "score": -1.0,
-        "net_shares": -225236,
+        "net_shares": -44845,
         "buys": 0,
-        "sells": 17
+        "sells": 9
       },
       {
         "ticker": "V",
@@ -119,9 +119,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -380739,
+        "net_shares": -374739,
         "buys": 0,
-        "sells": 66
+        "sells": 65
       },
       {
         "ticker": "JNJ",
@@ -133,9 +133,9 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -8886209,
+        "net_shares": -8884874,
         "buys": 0,
-        "sells": 29
+        "sells": 28
       },
       {
         "ticker": "BAC",
@@ -178,11 +178,11 @@
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -12352
+        "net_shares": -11302
       },
       "META": {
         "score": -1.0,
-        "net_shares": -35257
+        "net_shares": -34677
       },
       "TSLA": {
         "score": -1.0,
@@ -198,7 +198,7 @@
       },
       "JPM": {
         "score": -1.0,
-        "net_shares": -225236
+        "net_shares": -44845
       },
       "V": {
         "score": -1.0,
@@ -222,7 +222,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -380739
+        "net_shares": -374739
       },
       "JNJ": {
         "score": -1.0,
@@ -230,7 +230,7 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -8886209
+        "net_shares": -8884874
       },
       "BAC": {
         "score": -1.0,
