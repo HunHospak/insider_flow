@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-07-15T23:31:06+00:00",
+  "generated_at": "2026-07-16T23:27:06+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-07-15",
+    "as_of": "2026-07-16",
     "scanned": 40,
     "with_activity": 31,
     "accumulating": [
@@ -56,9 +56,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -34677,
+        "net_shares": -39912,
         "buys": 0,
-        "sells": 60
+        "sells": 70
       },
       {
         "ticker": "TSLA",
@@ -98,9 +98,9 @@
       {
         "ticker": "MA",
         "score": -1.0,
-        "net_shares": -21065,
+        "net_shares": -21465,
         "buys": 0,
-        "sells": 3
+        "sells": 5
       },
       {
         "ticker": "COST",
@@ -119,9 +119,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -374739,
+        "net_shares": -347630,
         "buys": 0,
-        "sells": 65
+        "sells": 64
       },
       {
         "ticker": "JNJ",
@@ -133,9 +133,9 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -8884874,
+        "net_shares": -8868849,
         "buys": 0,
-        "sells": 28
+        "sells": 24
       },
       {
         "ticker": "BAC",
@@ -182,7 +182,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -34677
+        "net_shares": -39912
       },
       "TSLA": {
         "score": -1.0,
@@ -190,7 +190,7 @@
       },
       "AVGO": {
         "score": -0.997,
-        "net_shares": -662995
+        "net_shares": -714885
       },
       "LLY": {
         "score": -1.0,
@@ -210,7 +210,7 @@
       },
       "MA": {
         "score": -1.0,
-        "net_shares": -21065
+        "net_shares": -21465
       },
       "COST": {
         "score": -1.0,
@@ -222,7 +222,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -374739
+        "net_shares": -347630
       },
       "JNJ": {
         "score": -1.0,
@@ -230,7 +230,7 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -8884874
+        "net_shares": -8868849
       },
       "BAC": {
         "score": -1.0,
@@ -250,7 +250,7 @@
       },
       "ORCL": {
         "score": -1.0,
-        "net_shares": -415000
+        "net_shares": -400000
       },
       "CSCO": {
         "score": -1.0,
@@ -262,7 +262,7 @@
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -29029
+        "net_shares": -31529
       },
       "TXN": {
         "score": -1.0,
