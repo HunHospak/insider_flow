@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-07-21T23:30:28+00:00",
+  "generated_at": "2026-07-22T23:31:34+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-07-21",
+    "as_of": "2026-07-22",
     "scanned": 40,
     "with_activity": 31,
     "accumulating": [
