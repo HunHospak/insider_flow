@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-07-22T23:31:34+00:00",
+  "generated_at": "2026-07-23T23:29:59+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-07-22",
+    "as_of": "2026-07-23",
     "scanned": 40,
-    "with_activity": 31,
+    "with_activity": 30,
     "accumulating": [
       {
         "ticker": "BA",
@@ -21,9 +21,9 @@
       {
         "ticker": "AAPL",
         "score": -1.0,
-        "net_shares": -302808,
+        "net_shares": -301274,
         "buys": 0,
-        "sells": 5
+        "sells": 4
       },
       {
         "ticker": "MSFT",
@@ -89,18 +89,11 @@
         "sells": 5
       },
       {
-        "ticker": "UNH",
-        "score": -1.0,
-        "net_shares": -800,
-        "buys": 0,
-        "sells": 1
-      },
-      {
         "ticker": "MA",
         "score": -1.0,
-        "net_shares": -21465,
+        "net_shares": -41609,
         "buys": 0,
-        "sells": 5
+        "sells": 15
       },
       {
         "ticker": "COST",
@@ -126,16 +119,16 @@
       {
         "ticker": "JNJ",
         "score": -1.0,
-        "net_shares": -10000,
+        "net_shares": -33054,
         "buys": 0,
-        "sells": 1
+        "sells": 2
       },
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -8868849,
+        "net_shares": -8852333,
         "buys": 0,
-        "sells": 24
+        "sells": 25
       },
       {
         "ticker": "BAC",
@@ -157,12 +150,19 @@
         "net_shares": -575000,
         "buys": 0,
         "sells": 10
+      },
+      {
+        "ticker": "ORCL",
+        "score": -1.0,
+        "net_shares": -400000,
+        "buys": 0,
+        "sells": 11
       }
     ],
     "by_ticker": {
       "AAPL": {
         "score": -1.0,
-        "net_shares": -302808
+        "net_shares": -301274
       },
       "MSFT": {
         "score": -1.0,
@@ -204,13 +204,9 @@
         "score": -1.0,
         "net_shares": -54611
       },
-      "UNH": {
-        "score": -1.0,
-        "net_shares": -800
-      },
       "MA": {
         "score": -1.0,
-        "net_shares": -21465
+        "net_shares": -41609
       },
       "COST": {
         "score": -1.0,
@@ -226,11 +222,11 @@
       },
       "JNJ": {
         "score": -1.0,
-        "net_shares": -10000
+        "net_shares": -33054
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -8868849
+        "net_shares": -8852333
       },
       "BAC": {
         "score": -1.0,
