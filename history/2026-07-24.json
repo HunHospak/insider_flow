@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-07-23T23:29:59+00:00",
+  "generated_at": "2026-07-24T23:34:38+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-07-23",
+    "as_of": "2026-07-24",
     "scanned": 40,
     "with_activity": 30,
     "accumulating": [
@@ -42,9 +42,9 @@
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -144274,
+        "net_shares": -140425,
         "buys": 0,
-        "sells": 35
+        "sells": 34
       },
       {
         "ticker": "GOOGL",
@@ -56,9 +56,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -38357,
+        "net_shares": -39823,
         "buys": 0,
-        "sells": 65
+        "sells": 70
       },
       {
         "ticker": "TSLA",
@@ -112,9 +112,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -347630,
+        "net_shares": -316310,
         "buys": 0,
-        "sells": 64
+        "sells": 63
       },
       {
         "ticker": "JNJ",
@@ -174,7 +174,7 @@
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -144274
+        "net_shares": -140425
       },
       "GOOGL": {
         "score": -1.0,
@@ -182,7 +182,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -38357
+        "net_shares": -39823
       },
       "TSLA": {
         "score": -1.0,
@@ -218,7 +218,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -347630
+        "net_shares": -316310
       },
       "JNJ": {
         "score": -1.0,
@@ -262,7 +262,7 @@
       },
       "TXN": {
         "score": -1.0,
-        "net_shares": -262377
+        "net_shares": -158045
       },
       "VZ": {
         "score": -1.0,
