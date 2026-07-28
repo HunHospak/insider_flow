@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-07-27T23:36:24+00:00",
+  "generated_at": "2026-07-28T23:32:10+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-07-27",
+    "as_of": "2026-07-28",
     "scanned": 40,
     "with_activity": 30,
     "accumulating": [
@@ -15,6 +15,13 @@
         "net_shares": 1370,
         "buys": 1,
         "sells": 0
+      },
+      {
+        "ticker": "ADBE",
+        "score": 0.86,
+        "net_shares": 9245,
+        "buys": 1,
+        "sells": 1
       }
     ],
     "distributing": [
@@ -56,9 +63,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -38268,
+        "net_shares": -40431,
         "buys": 0,
-        "sells": 65
+        "sells": 70
       },
       {
         "ticker": "TSLA",
@@ -112,9 +119,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -316310,
+        "net_shares": -322310,
         "buys": 0,
-        "sells": 63
+        "sells": 64
       },
       {
         "ticker": "JNJ",
@@ -182,7 +189,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -38268
+        "net_shares": -40431
       },
       "TSLA": {
         "score": -1.0,
@@ -218,7 +225,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -316310
+        "net_shares": -322310
       },
       "JNJ": {
         "score": -1.0,
@@ -237,8 +244,8 @@
         "net_shares": -999905
       },
       "ADBE": {
-        "score": -0.767,
-        "net_shares": -65755
+        "score": 0.86,
+        "net_shares": 9245
       },
       "CVX": {
         "score": -1.0,
