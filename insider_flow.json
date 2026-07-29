@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-07-28T23:32:10+00:00",
+  "generated_at": "2026-07-29T23:32:01+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-07-28",
+    "as_of": "2026-07-29",
     "scanned": 40,
     "with_activity": 30,
     "accumulating": [
@@ -91,9 +91,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -54611,
+        "net_shares": -23156,
         "buys": 0,
-        "sells": 5
+        "sells": 4
       },
       {
         "ticker": "MA",
@@ -209,7 +209,7 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -54611
+        "net_shares": -23156
       },
       "MA": {
         "score": -1.0,
