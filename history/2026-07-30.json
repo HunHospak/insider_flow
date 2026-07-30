@@ -1,27 +1,27 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-07-29T23:32:01+00:00",
+  "generated_at": "2026-07-30T23:34:31+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-07-29",
+    "as_of": "2026-07-30",
     "scanned": 40,
-    "with_activity": 30,
+    "with_activity": 31,
     "accumulating": [
+      {
+        "ticker": "ADBE",
+        "score": 1.0,
+        "net_shares": 10000,
+        "buys": 1,
+        "sells": 0
+      },
       {
         "ticker": "BA",
         "score": 1.0,
         "net_shares": 1370,
         "buys": 1,
         "sells": 0
-      },
-      {
-        "ticker": "ADBE",
-        "score": 0.86,
-        "net_shares": 9245,
-        "buys": 1,
-        "sells": 1
       }
     ],
     "distributing": [
@@ -49,16 +49,16 @@
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -140425,
+        "net_shares": -136719,
         "buys": 0,
-        "sells": 34
+        "sells": 33
       },
       {
         "ticker": "GOOGL",
         "score": -1.0,
-        "net_shares": -11302,
+        "net_shares": -11200,
         "buys": 0,
-        "sells": 33
+        "sells": 32
       },
       {
         "ticker": "META",
@@ -70,9 +70,9 @@
       {
         "ticker": "TSLA",
         "score": -1.0,
-        "net_shares": -32015,
+        "net_shares": -5606,
         "buys": 0,
-        "sells": 18
+        "sells": 2
       },
       {
         "ticker": "LLY",
@@ -181,11 +181,11 @@
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -140425
+        "net_shares": -136719
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -11302
+        "net_shares": -11200
       },
       "META": {
         "score": -1.0,
@@ -193,7 +193,7 @@
       },
       "TSLA": {
         "score": -1.0,
-        "net_shares": -32015
+        "net_shares": -5606
       },
       "AVGO": {
         "score": -0.997,
@@ -244,8 +244,8 @@
         "net_shares": -999905
       },
       "ADBE": {
-        "score": 0.86,
-        "net_shares": 9245
+        "score": 1.0,
+        "net_shares": 10000
       },
       "CVX": {
         "score": -1.0,
@@ -269,7 +269,7 @@
       },
       "TXN": {
         "score": -1.0,
-        "net_shares": -148260
+        "net_shares": -106491
       },
       "VZ": {
         "score": -1.0,
@@ -282,6 +282,10 @@
       "NKE": {
         "score": -1.0,
         "net_shares": -17398
+      },
+      "GE": {
+        "score": -1.0,
+        "net_shares": -8096
       },
       "BA": {
         "score": 1.0,
