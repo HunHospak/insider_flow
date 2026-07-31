@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-07-30T23:34:31+00:00",
+  "generated_at": "2026-07-31T23:32:40+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-07-30",
+    "as_of": "2026-07-31",
     "scanned": 40,
     "with_activity": 31,
     "accumulating": [
@@ -49,9 +49,9 @@
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -136719,
+        "net_shares": -135719,
         "buys": 0,
-        "sells": 33
+        "sells": 32
       },
       {
         "ticker": "GOOGL",
@@ -63,9 +63,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -40431,
+        "net_shares": -40022,
         "buys": 0,
-        "sells": 70
+        "sells": 69
       },
       {
         "ticker": "TSLA",
@@ -112,9 +112,9 @@
       {
         "ticker": "NFLX",
         "score": -1.0,
-        "net_shares": -899839,
+        "net_shares": -492289,
         "buys": 0,
-        "sells": 13
+        "sells": 10
       },
       {
         "ticker": "AMD",
@@ -181,7 +181,7 @@
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -136719
+        "net_shares": -135719
       },
       "GOOGL": {
         "score": -1.0,
@@ -189,7 +189,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -40431
+        "net_shares": -40022
       },
       "TSLA": {
         "score": -1.0,
@@ -221,7 +221,7 @@
       },
       "NFLX": {
         "score": -1.0,
-        "net_shares": -899839
+        "net_shares": -492289
       },
       "AMD": {
         "score": -1.0,
@@ -261,7 +261,7 @@
       },
       "INTC": {
         "score": -1.0,
-        "net_shares": -61280
+        "net_shares": -21024
       },
       "QCOM": {
         "score": -1.0,
@@ -269,7 +269,7 @@
       },
       "TXN": {
         "score": -1.0,
-        "net_shares": -106491
+        "net_shares": -96535
       },
       "VZ": {
         "score": -1.0,
