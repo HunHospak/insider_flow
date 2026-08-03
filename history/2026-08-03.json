@@ -1,27 +1,27 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-07-31T23:32:40+00:00",
+  "generated_at": "2026-08-03T23:38:07+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-07-31",
+    "as_of": "2026-08-03",
     "scanned": 40,
     "with_activity": 31,
     "accumulating": [
-      {
-        "ticker": "ADBE",
-        "score": 1.0,
-        "net_shares": 10000,
-        "buys": 1,
-        "sells": 0
-      },
       {
         "ticker": "BA",
         "score": 1.0,
         "net_shares": 1370,
         "buys": 1,
         "sells": 0
+      },
+      {
+        "ticker": "ADBE",
+        "score": 0.92,
+        "net_shares": 9584,
+        "buys": 1,
+        "sells": 1
       }
     ],
     "distributing": [
@@ -49,23 +49,23 @@
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -135719,
+        "net_shares": -76867,
         "buys": 0,
-        "sells": 32
+        "sells": 30
       },
       {
         "ticker": "GOOGL",
         "score": -1.0,
-        "net_shares": -11200,
+        "net_shares": -11282,
         "buys": 0,
-        "sells": 32
+        "sells": 33
       },
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -40022,
+        "net_shares": -38467,
         "buys": 0,
-        "sells": 69
+        "sells": 64
       },
       {
         "ticker": "TSLA",
@@ -91,9 +91,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -23156,
+        "net_shares": -80428,
         "buys": 0,
-        "sells": 4
+        "sells": 6
       },
       {
         "ticker": "MA",
@@ -147,9 +147,9 @@
       {
         "ticker": "KO",
         "score": -1.0,
-        "net_shares": -999905,
+        "net_shares": -1526992,
         "buys": 0,
-        "sells": 12
+        "sells": 14
       },
       {
         "ticker": "CVX",
@@ -181,15 +181,15 @@
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -135719
+        "net_shares": -76867
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -11200
+        "net_shares": -11282
       },
       "META": {
         "score": -1.0,
-        "net_shares": -40022
+        "net_shares": -38467
       },
       "TSLA": {
         "score": -1.0,
@@ -209,7 +209,7 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -23156
+        "net_shares": -80428
       },
       "MA": {
         "score": -1.0,
@@ -241,11 +241,11 @@
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -999905
+        "net_shares": -1526992
       },
       "ADBE": {
-        "score": 1.0,
-        "net_shares": 10000
+        "score": 0.92,
+        "net_shares": 9584
       },
       "CVX": {
         "score": -1.0,
@@ -265,11 +265,11 @@
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -31529
+        "net_shares": -18329
       },
       "TXN": {
         "score": -1.0,
-        "net_shares": -96535
+        "net_shares": -76535
       },
       "VZ": {
         "score": -1.0,
