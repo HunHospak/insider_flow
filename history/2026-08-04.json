@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-08-03T23:38:07+00:00",
+  "generated_at": "2026-08-04T23:34:26+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-08-03",
+    "as_of": "2026-08-04",
     "scanned": 40,
-    "with_activity": 31,
+    "with_activity": 30,
     "accumulating": [
       {
         "ticker": "BA",
@@ -84,9 +84,9 @@
       {
         "ticker": "JPM",
         "score": -1.0,
-        "net_shares": -44845,
+        "net_shares": -32834,
         "buys": 0,
-        "sells": 9
+        "sells": 6
       },
       {
         "ticker": "V",
@@ -112,9 +112,9 @@
       {
         "ticker": "NFLX",
         "score": -1.0,
-        "net_shares": -492289,
+        "net_shares": -459255,
         "buys": 0,
-        "sells": 10
+        "sells": 6
       },
       {
         "ticker": "AMD",
@@ -138,13 +138,6 @@
         "sells": 25
       },
       {
-        "ticker": "BAC",
-        "score": -1.0,
-        "net_shares": -126756,
-        "buys": 0,
-        "sells": 1
-      },
-      {
         "ticker": "KO",
         "score": -1.0,
         "net_shares": -1526992,
@@ -164,6 +157,13 @@
         "net_shares": -400000,
         "buys": 0,
         "sells": 11
+      },
+      {
+        "ticker": "CSCO",
+        "score": -1.0,
+        "net_shares": -53432,
+        "buys": 0,
+        "sells": 26
       }
     ],
     "by_ticker": {
@@ -205,7 +205,7 @@
       },
       "JPM": {
         "score": -1.0,
-        "net_shares": -44845
+        "net_shares": -32834
       },
       "V": {
         "score": -1.0,
@@ -221,7 +221,7 @@
       },
       "NFLX": {
         "score": -1.0,
-        "net_shares": -492289
+        "net_shares": -459255
       },
       "AMD": {
         "score": -1.0,
@@ -234,10 +234,6 @@
       "WMT": {
         "score": -1.0,
         "net_shares": -8852333
-      },
-      "BAC": {
-        "score": -1.0,
-        "net_shares": -126756
       },
       "KO": {
         "score": -1.0,
@@ -265,7 +261,7 @@
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -18329
+        "net_shares": -8329
       },
       "TXN": {
         "score": -1.0,
