@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-08-04T23:34:26+00:00",
+  "generated_at": "2026-08-05T23:30:40+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-08-04",
+    "as_of": "2026-08-05",
     "scanned": 40,
     "with_activity": 30,
     "accumulating": [
@@ -28,9 +28,9 @@
       {
         "ticker": "AAPL",
         "score": -1.0,
-        "net_shares": -301274,
+        "net_shares": -51274,
         "buys": 0,
-        "sells": 4
+        "sells": 2
       },
       {
         "ticker": "MSFT",
@@ -77,9 +77,9 @@
       {
         "ticker": "LLY",
         "score": -1.0,
-        "net_shares": -18328,
+        "net_shares": -2500,
         "buys": 0,
-        "sells": 3
+        "sells": 1
       },
       {
         "ticker": "JPM",
@@ -140,16 +140,16 @@
       {
         "ticker": "KO",
         "score": -1.0,
-        "net_shares": -1526992,
+        "net_shares": -1679475,
         "buys": 0,
-        "sells": 14
+        "sells": 15
       },
       {
         "ticker": "CVX",
         "score": -1.0,
-        "net_shares": -575000,
+        "net_shares": -380000,
         "buys": 0,
-        "sells": 10
+        "sells": 7
       },
       {
         "ticker": "ORCL",
@@ -169,7 +169,7 @@
     "by_ticker": {
       "AAPL": {
         "score": -1.0,
-        "net_shares": -301274
+        "net_shares": -51274
       },
       "MSFT": {
         "score": -1.0,
@@ -201,7 +201,7 @@
       },
       "LLY": {
         "score": -1.0,
-        "net_shares": -18328
+        "net_shares": -2500
       },
       "JPM": {
         "score": -1.0,
@@ -237,7 +237,7 @@
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -1526992
+        "net_shares": -1679475
       },
       "ADBE": {
         "score": 0.92,
@@ -245,7 +245,7 @@
       },
       "CVX": {
         "score": -1.0,
-        "net_shares": -575000
+        "net_shares": -380000
       },
       "ORCL": {
         "score": -1.0,
@@ -261,7 +261,7 @@
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -8329
+        "net_shares": -11529
       },
       "TXN": {
         "score": -1.0,
