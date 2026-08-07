@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-08-05T23:30:40+00:00",
+  "generated_at": "2026-08-07T01:37:35+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-08-05",
+    "as_of": "2026-08-07",
     "scanned": 40,
     "with_activity": 30,
     "accumulating": [
@@ -15,6 +15,13 @@
         "net_shares": 1370,
         "buys": 1,
         "sells": 0
+      },
+      {
+        "ticker": "PFE",
+        "score": 0.949,
+        "net_shares": 74863,
+        "buys": 2,
+        "sells": 1
       },
       {
         "ticker": "ADBE",
@@ -28,16 +35,16 @@
       {
         "ticker": "AAPL",
         "score": -1.0,
-        "net_shares": -51274,
+        "net_shares": -50000,
         "buys": 0,
-        "sells": 2
+        "sells": 1
       },
       {
         "ticker": "MSFT",
         "score": -1.0,
-        "net_shares": -23762,
+        "net_shares": -28572,
         "buys": 0,
-        "sells": 4
+        "sells": 5
       },
       {
         "ticker": "NVDA",
@@ -49,9 +56,9 @@
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -76867,
+        "net_shares": -1287516,
         "buys": 0,
-        "sells": 30
+        "sells": 32
       },
       {
         "ticker": "GOOGL",
@@ -63,9 +70,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -38467,
+        "net_shares": -39431,
         "buys": 0,
-        "sells": 64
+        "sells": 66
       },
       {
         "ticker": "TSLA",
@@ -98,9 +105,9 @@
       {
         "ticker": "MA",
         "score": -1.0,
-        "net_shares": -41609,
+        "net_shares": -79145,
         "buys": 0,
-        "sells": 15
+        "sells": 25
       },
       {
         "ticker": "COST",
@@ -112,16 +119,16 @@
       {
         "ticker": "NFLX",
         "score": -1.0,
-        "net_shares": -459255,
+        "net_shares": -561575,
         "buys": 0,
-        "sells": 6
+        "sells": 8
       },
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -322310,
+        "net_shares": -297934,
         "buys": 0,
-        "sells": 64
+        "sells": 63
       },
       {
         "ticker": "JNJ",
@@ -133,23 +140,23 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -8852333,
+        "net_shares": -8856043,
         "buys": 0,
-        "sells": 25
+        "sells": 26
       },
       {
         "ticker": "KO",
         "score": -1.0,
-        "net_shares": -1679475,
+        "net_shares": -1479475,
         "buys": 0,
-        "sells": 15
+        "sells": 14
       },
       {
         "ticker": "CVX",
         "score": -1.0,
-        "net_shares": -380000,
+        "net_shares": -1190665,
         "buys": 0,
-        "sells": 7
+        "sells": 15
       },
       {
         "ticker": "ORCL",
@@ -169,11 +176,11 @@
     "by_ticker": {
       "AAPL": {
         "score": -1.0,
-        "net_shares": -51274
+        "net_shares": -50000
       },
       "MSFT": {
         "score": -1.0,
-        "net_shares": -23762
+        "net_shares": -28572
       },
       "NVDA": {
         "score": -1.0,
@@ -181,7 +188,7 @@
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -76867
+        "net_shares": -1287516
       },
       "GOOGL": {
         "score": -1.0,
@@ -189,7 +196,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -38467
+        "net_shares": -39431
       },
       "TSLA": {
         "score": -1.0,
@@ -213,7 +220,7 @@
       },
       "MA": {
         "score": -1.0,
-        "net_shares": -41609
+        "net_shares": -79145
       },
       "COST": {
         "score": -1.0,
@@ -221,11 +228,11 @@
       },
       "NFLX": {
         "score": -1.0,
-        "net_shares": -459255
+        "net_shares": -561575
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -322310
+        "net_shares": -297934
       },
       "JNJ": {
         "score": -1.0,
@@ -233,11 +240,11 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -8852333
+        "net_shares": -8856043
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -1679475
+        "net_shares": -1479475
       },
       "ADBE": {
         "score": 0.92,
@@ -245,7 +252,7 @@
       },
       "CVX": {
         "score": -1.0,
-        "net_shares": -380000
+        "net_shares": -1190665
       },
       "ORCL": {
         "score": -1.0,
@@ -272,8 +279,8 @@
         "net_shares": -73069
       },
       "PFE": {
-        "score": -1.0,
-        "net_shares": -2000
+        "score": 0.949,
+        "net_shares": 74863
       },
       "NKE": {
         "score": -1.0,
