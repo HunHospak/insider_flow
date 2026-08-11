@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-08-10T23:07:54+00:00",
+  "generated_at": "2026-08-11T23:13:32+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-08-10",
+    "as_of": "2026-08-11",
     "scanned": 40,
     "with_activity": 30,
     "accumulating": [
@@ -98,9 +98,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -80428,
+        "net_shares": -69789,
         "buys": 0,
-        "sells": 6
+        "sells": 5
       },
       {
         "ticker": "MA",
@@ -216,7 +216,7 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -80428
+        "net_shares": -69789
       },
       "MA": {
         "score": -1.0,
@@ -268,7 +268,7 @@
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -11529
+        "net_shares": -9029
       },
       "TXN": {
         "score": -1.0,
