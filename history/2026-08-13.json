@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-08-12T23:11:52+00:00",
+  "generated_at": "2026-08-13T23:12:52+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-08-12",
+    "as_of": "2026-08-13",
     "scanned": 40,
     "with_activity": 30,
     "accumulating": [
@@ -42,9 +42,9 @@
       {
         "ticker": "MSFT",
         "score": -1.0,
-        "net_shares": -38572,
+        "net_shares": -37310,
         "buys": 0,
-        "sells": 6
+        "sells": 5
       },
       {
         "ticker": "NVDA",
@@ -180,7 +180,7 @@
       },
       "MSFT": {
         "score": -1.0,
-        "net_shares": -38572
+        "net_shares": -37310
       },
       "NVDA": {
         "score": -1.0,
@@ -272,7 +272,7 @@
       },
       "TXN": {
         "score": -1.0,
-        "net_shares": -62734
+        "net_shares": -10000
       },
       "VZ": {
         "score": -1.0,
