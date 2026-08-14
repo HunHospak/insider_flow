@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-08-13T23:12:52+00:00",
+  "generated_at": "2026-08-14T22:51:26+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-08-13",
+    "as_of": "2026-08-14",
     "scanned": 40,
     "with_activity": 30,
     "accumulating": [
@@ -56,23 +56,23 @@
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -1287516,
+        "net_shares": -1272299,
         "buys": 0,
-        "sells": 32
+        "sells": 26
       },
       {
         "ticker": "GOOGL",
         "score": -1.0,
-        "net_shares": -11282,
+        "net_shares": -10232,
         "buys": 0,
-        "sells": 33
+        "sells": 22
       },
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -38302,
+        "net_shares": -36175,
         "buys": 0,
-        "sells": 65
+        "sells": 64
       },
       {
         "ticker": "TSLA",
@@ -91,9 +91,9 @@
       {
         "ticker": "JPM",
         "score": -1.0,
-        "net_shares": -32834,
+        "net_shares": -10935,
         "buys": 0,
-        "sells": 6
+        "sells": 2
       },
       {
         "ticker": "V",
@@ -126,9 +126,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -172934,
+        "net_shares": -166934,
         "buys": 0,
-        "sells": 41
+        "sells": 40
       },
       {
         "ticker": "JNJ",
@@ -140,16 +140,16 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -8856043,
+        "net_shares": -8854793,
         "buys": 0,
-        "sells": 26
+        "sells": 25
       },
       {
         "ticker": "KO",
         "score": -1.0,
-        "net_shares": -1479475,
+        "net_shares": -1447850,
         "buys": 0,
-        "sells": 14
+        "sells": 13
       },
       {
         "ticker": "CVX",
@@ -168,9 +168,9 @@
       {
         "ticker": "CSCO",
         "score": -1.0,
-        "net_shares": -53432,
+        "net_shares": -31404,
         "buys": 0,
-        "sells": 26
+        "sells": 13
       }
     ],
     "by_ticker": {
@@ -188,15 +188,15 @@
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -1287516
+        "net_shares": -1272299
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -11282
+        "net_shares": -10232
       },
       "META": {
         "score": -1.0,
-        "net_shares": -38302
+        "net_shares": -36175
       },
       "TSLA": {
         "score": -1.0,
@@ -212,7 +212,7 @@
       },
       "JPM": {
         "score": -1.0,
-        "net_shares": -32834
+        "net_shares": -10935
       },
       "V": {
         "score": -1.0,
@@ -232,7 +232,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -172934
+        "net_shares": -166934
       },
       "JNJ": {
         "score": -1.0,
@@ -240,11 +240,11 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -8856043
+        "net_shares": -8854793
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -1479475
+        "net_shares": -1447850
       },
       "ADBE": {
         "score": 0.92,
@@ -260,7 +260,7 @@
       },
       "CSCO": {
         "score": -1.0,
-        "net_shares": -53432
+        "net_shares": -31404
       },
       "INTC": {
         "score": -1.0,
