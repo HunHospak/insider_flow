@@ -1,21 +1,14 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-08-18T22:52:42+00:00",
+  "generated_at": "2026-08-19T22:53:03+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-08-18",
+    "as_of": "2026-08-19",
     "scanned": 40,
-    "with_activity": 33,
+    "with_activity": 32,
     "accumulating": [
-      {
-        "ticker": "BA",
-        "score": 1.0,
-        "net_shares": 1370,
-        "buys": 1,
-        "sells": 0
-      },
       {
         "ticker": "ADBE",
         "score": 0.92,
@@ -91,9 +84,9 @@
       {
         "ticker": "JPM",
         "score": -1.0,
-        "net_shares": -13435,
+        "net_shares": -7967,
         "buys": 0,
-        "sells": 3
+        "sells": 2
       },
       {
         "ticker": "V",
@@ -133,9 +126,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -167077,
+        "net_shares": -147590,
         "buys": 0,
-        "sells": 41
+        "sells": 32
       },
       {
         "ticker": "JNJ",
@@ -168,9 +161,9 @@
       {
         "ticker": "CVX",
         "score": -1.0,
-        "net_shares": -1210256,
+        "net_shares": -830256,
         "buys": 0,
-        "sells": 17
+        "sells": 10
       }
     ],
     "by_ticker": {
@@ -212,7 +205,7 @@
       },
       "JPM": {
         "score": -1.0,
-        "net_shares": -13435
+        "net_shares": -7967
       },
       "V": {
         "score": -1.0,
@@ -236,7 +229,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -167077
+        "net_shares": -147590
       },
       "JNJ": {
         "score": -1.0,
@@ -260,7 +253,7 @@
       },
       "CVX": {
         "score": -1.0,
-        "net_shares": -1210256
+        "net_shares": -830256
       },
       "MRK": {
         "score": -1.0,
@@ -301,10 +294,6 @@
       "GE": {
         "score": -1.0,
         "net_shares": -19855
-      },
-      "BA": {
-        "score": 1.0,
-        "net_shares": 1370
       }
     },
     "disclaimer": "Open-market insider (Form 4) activity. Informational only, not investment advice."
