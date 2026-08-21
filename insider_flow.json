@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-08-20T22:57:05+00:00",
+  "generated_at": "2026-08-21T22:52:54+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-08-20",
+    "as_of": "2026-08-21",
     "scanned": 40,
     "with_activity": 32,
     "accumulating": [
@@ -49,9 +49,9 @@
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -1221919,
+        "net_shares": -1212649,
         "buys": 0,
-        "sells": 5
+        "sells": 4
       },
       {
         "ticker": "GOOGL",
@@ -140,9 +140,9 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -8838768,
+        "net_shares": -7247268,
         "buys": 0,
-        "sells": 22
+        "sells": 19
       },
       {
         "ticker": "KO",
@@ -181,7 +181,7 @@
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -1221919
+        "net_shares": -1212649
       },
       "GOOGL": {
         "score": -1.0,
@@ -237,7 +237,7 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -8838768
+        "net_shares": -7247268
       },
       "KO": {
         "score": -1.0,
@@ -265,7 +265,7 @@
       },
       "CSCO": {
         "score": -1.0,
-        "net_shares": -31404
+        "net_shares": -10004
       },
       "INTC": {
         "score": -1.0,
