@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-08-24T22:55:06+00:00",
+  "generated_at": "2026-08-25T22:57:04+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-25",
     "scanned": 40,
     "with_activity": 32,
     "accumulating": [
@@ -63,9 +63,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -20825,
+        "net_shares": -19359,
         "buys": 0,
-        "sells": 58
+        "sells": 53
       },
       {
         "ticker": "TSLA",
@@ -140,9 +140,9 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -7247268,
+        "net_shares": -6714928,
         "buys": 0,
-        "sells": 19
+        "sells": 16
       },
       {
         "ticker": "KO",
@@ -189,7 +189,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -20825
+        "net_shares": -19359
       },
       "TSLA": {
         "score": -1.0,
@@ -237,7 +237,7 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -7247268
+        "net_shares": -6714928
       },
       "KO": {
         "score": -1.0,
