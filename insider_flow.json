@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-08-25T22:57:04+00:00",
+  "generated_at": "2026-08-27T03:29:07+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-08-25",
+    "as_of": "2026-08-27",
     "scanned": 40,
     "with_activity": 32,
     "accumulating": [
@@ -28,9 +28,9 @@
       {
         "ticker": "AAPL",
         "score": -1.0,
-        "net_shares": -51439,
+        "net_shares": -1439,
         "buys": 0,
-        "sells": 2
+        "sells": 1
       },
       {
         "ticker": "MSFT",
@@ -42,16 +42,16 @@
       {
         "ticker": "NVDA",
         "score": -1.0,
-        "net_shares": -1901125,
+        "net_shares": -1900500,
         "buys": 0,
-        "sells": 7
+        "sells": 6
       },
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -1212649,
+        "net_shares": -1277497,
         "buys": 0,
-        "sells": 4
+        "sells": 24
       },
       {
         "ticker": "GOOGL",
@@ -63,9 +63,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -19359,
+        "net_shares": -17280,
         "buys": 0,
-        "sells": 53
+        "sells": 52
       },
       {
         "ticker": "TSLA",
@@ -91,16 +91,16 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -69789,
+        "net_shares": -93591,
         "buys": 0,
-        "sells": 5
+        "sells": 7
       },
       {
         "ticker": "UNH",
         "score": -1.0,
-        "net_shares": -500,
+        "net_shares": -1669,
         "buys": 0,
-        "sells": 1
+        "sells": 2
       },
       {
         "ticker": "MA",
@@ -115,6 +115,13 @@
         "net_shares": -885,
         "buys": 0,
         "sells": 1
+      },
+      {
+        "ticker": "PG",
+        "score": -1.0,
+        "net_shares": -34814,
+        "buys": 0,
+        "sells": 13
       },
       {
         "ticker": "NFLX",
@@ -140,16 +147,16 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -6714928,
+        "net_shares": -6222685,
         "buys": 0,
-        "sells": 16
+        "sells": 12
       },
       {
         "ticker": "KO",
         "score": -1.0,
-        "net_shares": -1589290,
+        "net_shares": -1700655,
         "buys": 0,
-        "sells": 18
+        "sells": 21
       },
       {
         "ticker": "PEP",
@@ -157,19 +164,12 @@
         "net_shares": -2900,
         "buys": 0,
         "sells": 1
-      },
-      {
-        "ticker": "CVX",
-        "score": -1.0,
-        "net_shares": -830256,
-        "buys": 0,
-        "sells": 10
       }
     ],
     "by_ticker": {
       "AAPL": {
         "score": -1.0,
-        "net_shares": -51439
+        "net_shares": -1439
       },
       "MSFT": {
         "score": -1.0,
@@ -177,11 +177,11 @@
       },
       "NVDA": {
         "score": -1.0,
-        "net_shares": -1901125
+        "net_shares": -1900500
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -1212649
+        "net_shares": -1277497
       },
       "GOOGL": {
         "score": -1.0,
@@ -189,7 +189,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -19359
+        "net_shares": -17280
       },
       "TSLA": {
         "score": -1.0,
@@ -209,11 +209,11 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -69789
+        "net_shares": -93591
       },
       "UNH": {
         "score": -1.0,
-        "net_shares": -500
+        "net_shares": -1669
       },
       "MA": {
         "score": -1.0,
@@ -222,6 +222,10 @@
       "COST": {
         "score": -1.0,
         "net_shares": -885
+      },
+      "PG": {
+        "score": -1.0,
+        "net_shares": -34814
       },
       "NFLX": {
         "score": -1.0,
@@ -237,11 +241,11 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -6714928
+        "net_shares": -6222685
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -1589290
+        "net_shares": -1700655
       },
       "PEP": {
         "score": -1.0,
@@ -274,10 +278,6 @@
       "QCOM": {
         "score": -1.0,
         "net_shares": -10700
-      },
-      "TXN": {
-        "score": -1.0,
-        "net_shares": -10000
       },
       "VZ": {
         "score": -1.0,
