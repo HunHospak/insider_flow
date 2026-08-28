@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-08-27T03:29:07+00:00",
+  "generated_at": "2026-08-28T06:15:05+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-08-27",
+    "as_of": "2026-08-28",
     "scanned": 40,
-    "with_activity": 32,
+    "with_activity": 31,
     "accumulating": [
       {
         "ticker": "ADBE",
@@ -56,9 +56,9 @@
       {
         "ticker": "GOOGL",
         "score": -1.0,
-        "net_shares": -10681,
+        "net_shares": -10579,
         "buys": 0,
-        "sells": 23
+        "sells": 22
       },
       {
         "ticker": "META",
@@ -133,9 +133,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -147590,
+        "net_shares": -163030,
         "buys": 0,
-        "sells": 32
+        "sells": 44
       },
       {
         "ticker": "JNJ",
@@ -185,7 +185,7 @@
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -10681
+        "net_shares": -10579
       },
       "META": {
         "score": -1.0,
@@ -233,7 +233,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -147590
+        "net_shares": -163030
       },
       "JNJ": {
         "score": -1.0,
@@ -271,17 +271,13 @@
         "score": -1.0,
         "net_shares": -10004
       },
-      "INTC": {
-        "score": -1.0,
-        "net_shares": -21024
-      },
       "QCOM": {
         "score": -1.0,
         "net_shares": -10700
       },
       "VZ": {
         "score": -1.0,
-        "net_shares": -73069
+        "net_shares": -1100
       },
       "PFE": {
         "score": 0.912,
