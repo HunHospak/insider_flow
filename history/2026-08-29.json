@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-08-28T06:15:05+00:00",
+  "generated_at": "2026-08-29T03:49:07+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-08-28",
+    "as_of": "2026-08-29",
     "scanned": 40,
-    "with_activity": 31,
+    "with_activity": 32,
     "accumulating": [
       {
         "ticker": "ADBE",
@@ -28,9 +28,9 @@
       {
         "ticker": "AAPL",
         "score": -1.0,
-        "net_shares": -1439,
+        "net_shares": -2878,
         "buys": 0,
-        "sells": 1
+        "sells": 2
       },
       {
         "ticker": "MSFT",
@@ -117,11 +117,18 @@
         "sells": 1
       },
       {
+        "ticker": "HD",
+        "score": -1.0,
+        "net_shares": -710,
+        "buys": 0,
+        "sells": 1
+      },
+      {
         "ticker": "PG",
         "score": -1.0,
-        "net_shares": -34814,
+        "net_shares": -37867,
         "buys": 0,
-        "sells": 13
+        "sells": 14
       },
       {
         "ticker": "NFLX",
@@ -133,9 +140,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -163030,
+        "net_shares": -178030,
         "buys": 0,
-        "sells": 44
+        "sells": 52
       },
       {
         "ticker": "JNJ",
@@ -147,9 +154,9 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -6222685,
+        "net_shares": -6273329,
         "buys": 0,
-        "sells": 12
+        "sells": 13
       },
       {
         "ticker": "KO",
@@ -157,19 +164,12 @@
         "net_shares": -1700655,
         "buys": 0,
         "sells": 21
-      },
-      {
-        "ticker": "PEP",
-        "score": -1.0,
-        "net_shares": -2900,
-        "buys": 0,
-        "sells": 1
       }
     ],
     "by_ticker": {
       "AAPL": {
         "score": -1.0,
-        "net_shares": -1439
+        "net_shares": -2878
       },
       "MSFT": {
         "score": -1.0,
@@ -223,9 +223,13 @@
         "score": -1.0,
         "net_shares": -885
       },
+      "HD": {
+        "score": -1.0,
+        "net_shares": -710
+      },
       "PG": {
         "score": -1.0,
-        "net_shares": -34814
+        "net_shares": -37867
       },
       "NFLX": {
         "score": -1.0,
@@ -233,7 +237,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -163030
+        "net_shares": -178030
       },
       "JNJ": {
         "score": -1.0,
@@ -241,7 +245,7 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -6222685
+        "net_shares": -6273329
       },
       "KO": {
         "score": -1.0,
