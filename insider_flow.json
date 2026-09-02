@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-01T01:22:36+00:00",
+  "generated_at": "2026-09-02T00:26:16+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-01",
+    "as_of": "2026-09-02",
     "scanned": 40,
-    "with_activity": 32,
+    "with_activity": 33,
     "accumulating": [
       {
         "ticker": "ADBE",
@@ -42,9 +42,9 @@
       {
         "ticker": "NVDA",
         "score": -1.0,
-        "net_shares": -1400500,
+        "net_shares": -1385000,
         "buys": 0,
-        "sells": 5
+        "sells": 4
       },
       {
         "ticker": "AMZN",
@@ -56,9 +56,9 @@
       {
         "ticker": "GOOGL",
         "score": -1.0,
-        "net_shares": -10579,
+        "net_shares": -10661,
         "buys": 0,
-        "sells": 22
+        "sells": 23
       },
       {
         "ticker": "META",
@@ -119,9 +119,9 @@
       {
         "ticker": "HD",
         "score": -1.0,
-        "net_shares": -710,
+        "net_shares": -3165,
         "buys": 0,
-        "sells": 1
+        "sells": 2
       },
       {
         "ticker": "PG",
@@ -177,7 +177,7 @@
       },
       "NVDA": {
         "score": -1.0,
-        "net_shares": -1400500
+        "net_shares": -1385000
       },
       "AMZN": {
         "score": -1.0,
@@ -185,7 +185,7 @@
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -10579
+        "net_shares": -10661
       },
       "META": {
         "score": -1.0,
@@ -225,7 +225,7 @@
       },
       "HD": {
         "score": -1.0,
-        "net_shares": -710
+        "net_shares": -3165
       },
       "PG": {
         "score": -1.0,
@@ -277,7 +277,11 @@
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -10700
+        "net_shares": -10908
+      },
+      "TXN": {
+        "score": -1.0,
+        "net_shares": -7000
       },
       "VZ": {
         "score": -1.0,
