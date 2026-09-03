@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-02T00:26:16+00:00",
+  "generated_at": "2026-09-03T00:32:33+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-02",
+    "as_of": "2026-09-03",
     "scanned": 40,
     "with_activity": 33,
     "accumulating": [
@@ -42,9 +42,9 @@
       {
         "ticker": "NVDA",
         "score": -1.0,
-        "net_shares": -1385000,
+        "net_shares": -885000,
         "buys": 0,
-        "sells": 4
+        "sells": 2
       },
       {
         "ticker": "AMZN",
@@ -161,9 +161,9 @@
       {
         "ticker": "KO",
         "score": -1.0,
-        "net_shares": -1700655,
+        "net_shares": -1692655,
         "buys": 0,
-        "sells": 21
+        "sells": 20
       }
     ],
     "by_ticker": {
@@ -177,7 +177,7 @@
       },
       "NVDA": {
         "score": -1.0,
-        "net_shares": -1385000
+        "net_shares": -885000
       },
       "AMZN": {
         "score": -1.0,
@@ -249,7 +249,7 @@
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -1700655
+        "net_shares": -1692655
       },
       "PEP": {
         "score": -1.0,
