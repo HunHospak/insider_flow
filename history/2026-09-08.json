@@ -1,27 +1,27 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-05T00:17:54+00:00",
+  "generated_at": "2026-09-08T00:37:25+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-05",
+    "as_of": "2026-09-08",
     "scanned": 40,
-    "with_activity": 33,
+    "with_activity": 32,
     "accumulating": [
+      {
+        "ticker": "PFE",
+        "score": 0.945,
+        "net_shares": 111585,
+        "buys": 3,
+        "sells": 1
+      },
       {
         "ticker": "ADBE",
         "score": 0.92,
         "net_shares": 9584,
         "buys": 1,
         "sells": 1
-      },
-      {
-        "ticker": "PFE",
-        "score": 0.912,
-        "net_shares": 109585,
-        "buys": 3,
-        "sells": 2
       }
     ],
     "distributing": [
@@ -35,9 +35,9 @@
       {
         "ticker": "MSFT",
         "score": -1.0,
-        "net_shares": -21810,
+        "net_shares": -19310,
         "buys": 0,
-        "sells": 4
+        "sells": 3
       },
       {
         "ticker": "NVDA",
@@ -66,13 +66,6 @@
         "net_shares": -15310,
         "buys": 0,
         "sells": 46
-      },
-      {
-        "ticker": "TSLA",
-        "score": -1.0,
-        "net_shares": -2606,
-        "buys": 0,
-        "sells": 1
       },
       {
         "ticker": "LLY",
@@ -161,9 +154,16 @@
       {
         "ticker": "KO",
         "score": -1.0,
-        "net_shares": -1156359,
+        "net_shares": -956359,
         "buys": 0,
-        "sells": 17
+        "sells": 12
+      },
+      {
+        "ticker": "PEP",
+        "score": -1.0,
+        "net_shares": -2900,
+        "buys": 0,
+        "sells": 1
       }
     ],
     "by_ticker": {
@@ -173,7 +173,7 @@
       },
       "MSFT": {
         "score": -1.0,
-        "net_shares": -21810
+        "net_shares": -19310
       },
       "NVDA": {
         "score": -1.0,
@@ -190,10 +190,6 @@
       "META": {
         "score": -1.0,
         "net_shares": -15310
-      },
-      "TSLA": {
-        "score": -1.0,
-        "net_shares": -2606
       },
       "AVGO": {
         "score": -0.997,
@@ -249,7 +245,7 @@
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -1156359
+        "net_shares": -956359
       },
       "PEP": {
         "score": -1.0,
@@ -288,8 +284,8 @@
         "net_shares": -1100
       },
       "PFE": {
-        "score": 0.912,
-        "net_shares": 109585
+        "score": 0.945,
+        "net_shares": 111585
       },
       "NKE": {
         "score": -1.0,
