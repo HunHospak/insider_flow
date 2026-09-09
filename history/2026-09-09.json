@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-08T00:37:25+00:00",
+  "generated_at": "2026-09-09T00:28:08+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-08",
+    "as_of": "2026-09-09",
     "scanned": 40,
     "with_activity": 32,
     "accumulating": [
@@ -35,9 +35,9 @@
       {
         "ticker": "MSFT",
         "score": -1.0,
-        "net_shares": -19310,
+        "net_shares": -14810,
         "buys": 0,
-        "sells": 3
+        "sells": 2
       },
       {
         "ticker": "NVDA",
@@ -70,9 +70,9 @@
       {
         "ticker": "LLY",
         "score": -1.0,
-        "net_shares": -9500,
+        "net_shares": -7000,
         "buys": 0,
-        "sells": 3
+        "sells": 2
       },
       {
         "ticker": "JPM",
@@ -133,9 +133,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -169404,
+        "net_shares": -44404,
         "buys": 0,
-        "sells": 51
+        "sells": 24
       },
       {
         "ticker": "JNJ",
@@ -147,16 +147,16 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -4501996,
+        "net_shares": -4490018,
         "buys": 0,
-        "sells": 11
+        "sells": 10
       },
       {
         "ticker": "KO",
         "score": -1.0,
-        "net_shares": -956359,
+        "net_shares": -932375,
         "buys": 0,
-        "sells": 12
+        "sells": 11
       },
       {
         "ticker": "PEP",
@@ -173,7 +173,7 @@
       },
       "MSFT": {
         "score": -1.0,
-        "net_shares": -19310
+        "net_shares": -14810
       },
       "NVDA": {
         "score": -1.0,
@@ -197,7 +197,7 @@
       },
       "LLY": {
         "score": -1.0,
-        "net_shares": -9500
+        "net_shares": -7000
       },
       "JPM": {
         "score": -1.0,
@@ -233,7 +233,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -169404
+        "net_shares": -44404
       },
       "JNJ": {
         "score": -1.0,
@@ -241,11 +241,11 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -4501996
+        "net_shares": -4490018
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -956359
+        "net_shares": -932375
       },
       "PEP": {
         "score": -1.0,
