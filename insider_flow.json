@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-09T00:28:08+00:00",
+  "generated_at": "2026-09-10T00:27:41+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-09",
+    "as_of": "2026-09-10",
     "scanned": 40,
-    "with_activity": 32,
+    "with_activity": 31,
     "accumulating": [
       {
         "ticker": "PFE",
@@ -66,6 +66,13 @@
         "net_shares": -15310,
         "buys": 0,
         "sells": 46
+      },
+      {
+        "ticker": "AVGO",
+        "score": -1.0,
+        "net_shares": -715885,
+        "buys": 0,
+        "sells": 52
       },
       {
         "ticker": "LLY",
@@ -140,9 +147,9 @@
       {
         "ticker": "JNJ",
         "score": -1.0,
-        "net_shares": -220743,
+        "net_shares": -210743,
         "buys": 0,
-        "sells": 8
+        "sells": 7
       },
       {
         "ticker": "WMT",
@@ -157,13 +164,6 @@
         "net_shares": -932375,
         "buys": 0,
         "sells": 11
-      },
-      {
-        "ticker": "PEP",
-        "score": -1.0,
-        "net_shares": -2900,
-        "buys": 0,
-        "sells": 1
       }
     ],
     "by_ticker": {
@@ -192,8 +192,8 @@
         "net_shares": -15310
       },
       "AVGO": {
-        "score": -0.997,
-        "net_shares": -714885
+        "score": -1.0,
+        "net_shares": -715885
       },
       "LLY": {
         "score": -1.0,
@@ -237,7 +237,7 @@
       },
       "JNJ": {
         "score": -1.0,
-        "net_shares": -220743
+        "net_shares": -210743
       },
       "WMT": {
         "score": -1.0,
@@ -267,13 +267,9 @@
         "score": -1.0,
         "net_shares": -400000
       },
-      "CSCO": {
-        "score": -1.0,
-        "net_shares": -10004
-      },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -10908
+        "net_shares": -8408
       },
       "TXN": {
         "score": -1.0,
