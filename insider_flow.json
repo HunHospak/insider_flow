@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-10T00:27:41+00:00",
+  "generated_at": "2026-09-11T00:24:15+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-10",
+    "as_of": "2026-09-11",
     "scanned": 40,
     "with_activity": 31,
     "accumulating": [
@@ -285,7 +285,7 @@
       },
       "NKE": {
         "score": -1.0,
-        "net_shares": -26963
+        "net_shares": -9565
       },
       "GE": {
         "score": -1.0,
