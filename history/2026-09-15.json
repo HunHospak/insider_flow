@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-12T00:30:28+00:00",
+  "generated_at": "2026-09-15T00:49:49+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-12",
+    "as_of": "2026-09-15",
     "scanned": 40,
     "with_activity": 31,
     "accumulating": [
@@ -56,23 +56,23 @@
       {
         "ticker": "GOOGL",
         "score": -1.0,
-        "net_shares": -10661,
+        "net_shares": -9611,
         "buys": 0,
-        "sells": 23
+        "sells": 11
       },
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -15310,
+        "net_shares": -13912,
         "buys": 0,
-        "sells": 46
+        "sells": 41
       },
       {
         "ticker": "AVGO",
         "score": -1.0,
-        "net_shares": -715885,
+        "net_shares": -712558,
         "buys": 0,
-        "sells": 52
+        "sells": 40
       },
       {
         "ticker": "LLY",
@@ -140,9 +140,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -44404,
+        "net_shares": -38404,
         "buys": 0,
-        "sells": 24
+        "sells": 23
       },
       {
         "ticker": "JNJ",
@@ -154,9 +154,9 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -4490018,
+        "net_shares": -63929,
         "buys": 0,
-        "sells": 10
+        "sells": 6
       },
       {
         "ticker": "KO",
@@ -185,15 +185,15 @@
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -10661
+        "net_shares": -9611
       },
       "META": {
         "score": -1.0,
-        "net_shares": -15310
+        "net_shares": -13912
       },
       "AVGO": {
         "score": -1.0,
-        "net_shares": -715885
+        "net_shares": -712558
       },
       "LLY": {
         "score": -1.0,
@@ -233,7 +233,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -44404
+        "net_shares": -38404
       },
       "JNJ": {
         "score": -1.0,
@@ -241,7 +241,7 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -4490018
+        "net_shares": -63929
       },
       "KO": {
         "score": -1.0,
