@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-15T00:49:49+00:00",
+  "generated_at": "2026-09-16T00:42:08+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-15",
+    "as_of": "2026-09-16",
     "scanned": 40,
     "with_activity": 31,
     "accumulating": [
@@ -70,9 +70,9 @@
       {
         "ticker": "AVGO",
         "score": -1.0,
-        "net_shares": -712558,
+        "net_shares": -707733,
         "buys": 0,
-        "sells": 40
+        "sells": 26
       },
       {
         "ticker": "LLY",
@@ -133,9 +133,9 @@
       {
         "ticker": "NFLX",
         "score": -1.0,
-        "net_shares": -213595,
+        "net_shares": -177605,
         "buys": 0,
-        "sells": 9
+        "sells": 7
       },
       {
         "ticker": "AMD",
@@ -193,7 +193,7 @@
       },
       "AVGO": {
         "score": -1.0,
-        "net_shares": -712558
+        "net_shares": -707733
       },
       "LLY": {
         "score": -1.0,
@@ -229,7 +229,7 @@
       },
       "NFLX": {
         "score": -1.0,
-        "net_shares": -213595
+        "net_shares": -177605
       },
       "AMD": {
         "score": -1.0,
