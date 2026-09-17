@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-16T00:42:08+00:00",
+  "generated_at": "2026-09-17T00:48:52+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-16",
+    "as_of": "2026-09-17",
     "scanned": 40,
-    "with_activity": 31,
+    "with_activity": 30,
     "accumulating": [
       {
         "ticker": "PFE",
@@ -36,13 +36,6 @@
         "ticker": "MSFT",
         "score": -1.0,
         "net_shares": -14810,
-        "buys": 0,
-        "sells": 2
-      },
-      {
-        "ticker": "NVDA",
-        "score": -1.0,
-        "net_shares": -885000,
         "buys": 0,
         "sells": 2
       },
@@ -154,9 +147,9 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -63929,
+        "net_shares": -61029,
         "buys": 0,
-        "sells": 6
+        "sells": 5
       },
       {
         "ticker": "KO",
@@ -164,6 +157,13 @@
         "net_shares": -932375,
         "buys": 0,
         "sells": 11
+      },
+      {
+        "ticker": "PEP",
+        "score": -1.0,
+        "net_shares": -2900,
+        "buys": 0,
+        "sells": 1
       }
     ],
     "by_ticker": {
@@ -174,10 +174,6 @@
       "MSFT": {
         "score": -1.0,
         "net_shares": -14810
-      },
-      "NVDA": {
-        "score": -1.0,
-        "net_shares": -885000
       },
       "AMZN": {
         "score": -1.0,
@@ -241,7 +237,7 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -63929
+        "net_shares": -61029
       },
       "KO": {
         "score": -1.0,
