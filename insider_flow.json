@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-19T00:31:11+00:00",
+  "generated_at": "2026-09-22T01:03:07+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-19",
+    "as_of": "2026-09-22",
     "scanned": 40,
-    "with_activity": 30,
+    "with_activity": 29,
     "accumulating": [
       {
         "ticker": "PFE",
@@ -77,9 +77,9 @@
       {
         "ticker": "JPM",
         "score": -1.0,
-        "net_shares": -7967,
+        "net_shares": -2500,
         "buys": 0,
-        "sells": 2
+        "sells": 1
       },
       {
         "ticker": "V",
@@ -101,13 +101,6 @@
         "net_shares": -97517,
         "buys": 0,
         "sells": 33
-      },
-      {
-        "ticker": "COST",
-        "score": -1.0,
-        "net_shares": -885,
-        "buys": 0,
-        "sells": 1
       },
       {
         "ticker": "HD",
@@ -164,6 +157,13 @@
         "net_shares": -2900,
         "buys": 0,
         "sells": 1
+      },
+      {
+        "ticker": "CVX",
+        "score": -1.0,
+        "net_shares": -830256,
+        "buys": 0,
+        "sells": 10
       }
     ],
     "by_ticker": {
@@ -197,7 +197,7 @@
       },
       "JPM": {
         "score": -1.0,
-        "net_shares": -7967
+        "net_shares": -2500
       },
       "V": {
         "score": -1.0,
@@ -210,10 +210,6 @@
       "MA": {
         "score": -1.0,
         "net_shares": -97517
-      },
-      "COST": {
-        "score": -1.0,
-        "net_shares": -885
       },
       "HD": {
         "score": -1.0,
