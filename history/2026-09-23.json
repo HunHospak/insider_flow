@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-22T01:03:07+00:00",
+  "generated_at": "2026-09-23T00:51:59+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-22",
+    "as_of": "2026-09-23",
     "scanned": 40,
-    "with_activity": 29,
+    "with_activity": 28,
     "accumulating": [
       {
         "ticker": "PFE",
@@ -63,9 +63,9 @@
       {
         "ticker": "AVGO",
         "score": -1.0,
-        "net_shares": -707733,
+        "net_shares": -53492,
         "buys": 0,
-        "sells": 26
+        "sells": 4
       },
       {
         "ticker": "LLY",
@@ -189,7 +189,7 @@
       },
       "AVGO": {
         "score": -1.0,
-        "net_shares": -707733
+        "net_shares": -53492
       },
       "LLY": {
         "score": -1.0,
@@ -254,10 +254,6 @@
       "MRK": {
         "score": -1.0,
         "net_shares": -228238
-      },
-      "ORCL": {
-        "score": -1.0,
-        "net_shares": -400000
       },
       "QCOM": {
         "score": -1.0,
