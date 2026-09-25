@@ -1,14 +1,21 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-24T00:45:38+00:00",
+  "generated_at": "2026-09-25T00:42:59+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-24",
+    "as_of": "2026-09-25",
     "scanned": 40,
-    "with_activity": 28,
+    "with_activity": 36,
     "accumulating": [
+      {
+        "ticker": "INTC",
+        "score": 1.0,
+        "net_shares": 105263,
+        "buys": 1,
+        "sells": 0
+      },
       {
         "ticker": "PFE",
         "score": 0.945,
@@ -21,23 +28,30 @@
       {
         "ticker": "AAPL",
         "score": -1.0,
-        "net_shares": -2878,
+        "net_shares": -8632,
         "buys": 0,
-        "sells": 2
+        "sells": 6
       },
       {
         "ticker": "MSFT",
         "score": -1.0,
-        "net_shares": -14810,
+        "net_shares": -143009,
         "buys": 0,
-        "sells": 2
+        "sells": 16
+      },
+      {
+        "ticker": "NVDA",
+        "score": -1.0,
+        "net_shares": -4332118,
+        "buys": 0,
+        "sells": 25
       },
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -1276497,
+        "net_shares": -1281238,
         "buys": 0,
-        "sells": 23
+        "sells": 27
       },
       {
         "ticker": "GOOGL",
@@ -49,9 +63,16 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -13912,
+        "net_shares": -126386,
         "buys": 0,
-        "sells": 41
+        "sells": 94
+      },
+      {
+        "ticker": "TSLA",
+        "score": -1.0,
+        "net_shares": -2606,
+        "buys": 0,
+        "sells": 1
       },
       {
         "ticker": "AVGO",
@@ -63,23 +84,23 @@
       {
         "ticker": "LLY",
         "score": -1.0,
-        "net_shares": -7000,
+        "net_shares": -13500,
         "buys": 0,
-        "sells": 2
+        "sells": 3
       },
       {
         "ticker": "JPM",
         "score": -1.0,
-        "net_shares": -2500,
+        "net_shares": -5000,
         "buys": 0,
-        "sells": 1
+        "sells": 2
       },
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -93591,
+        "net_shares": -103361,
         "buys": 0,
-        "sells": 7
+        "sells": 10
       },
       {
         "ticker": "UNH",
@@ -91,86 +112,76 @@
       {
         "ticker": "MA",
         "score": -1.0,
-        "net_shares": -97517,
+        "net_shares": -111341,
         "buys": 0,
-        "sells": 33
+        "sells": 47
       },
       {
         "ticker": "HD",
         "score": -1.0,
-        "net_shares": -3165,
+        "net_shares": -9829,
         "buys": 0,
-        "sells": 2
+        "sells": 4
       },
       {
         "ticker": "PG",
         "score": -1.0,
-        "net_shares": -37867,
+        "net_shares": -46511,
         "buys": 0,
-        "sells": 14
+        "sells": 15
       },
       {
         "ticker": "NFLX",
         "score": -1.0,
-        "net_shares": -177605,
+        "net_shares": -179765,
         "buys": 0,
-        "sells": 7
+        "sells": 10
       },
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -38404,
+        "net_shares": -219838,
         "buys": 0,
-        "sells": 23
+        "sells": 78
       },
       {
         "ticker": "JNJ",
         "score": -1.0,
-        "net_shares": -210743,
+        "net_shares": -259340,
         "buys": 0,
-        "sells": 7
+        "sells": 10
       },
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -61029,
-        "buys": 0,
-        "sells": 5
-      },
-      {
-        "ticker": "KO",
-        "score": -1.0,
-        "net_shares": -932375,
+        "net_shares": -83904,
         "buys": 0,
         "sells": 11
       },
       {
-        "ticker": "PEP",
+        "ticker": "KO",
         "score": -1.0,
-        "net_shares": -2900,
+        "net_shares": -982375,
         "buys": 0,
-        "sells": 1
-      },
-      {
-        "ticker": "ADBE",
-        "score": -1.0,
-        "net_shares": -416,
-        "buys": 0,
-        "sells": 1
+        "sells": 12
       }
     ],
     "by_ticker": {
       "AAPL": {
         "score": -1.0,
-        "net_shares": -2878
+        "net_shares": -8632
       },
       "MSFT": {
         "score": -1.0,
-        "net_shares": -14810
+        "net_shares": -143009
+      },
+      "NVDA": {
+        "score": -1.0,
+        "net_shares": -4332118
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -1276497
+        "net_shares": -1281238
       },
       "GOOGL": {
         "score": -1.0,
@@ -178,7 +189,11 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -13912
+        "net_shares": -126386
+      },
+      "TSLA": {
+        "score": -1.0,
+        "net_shares": -2606
       },
       "AVGO": {
         "score": -1.0,
@@ -186,15 +201,15 @@
       },
       "LLY": {
         "score": -1.0,
-        "net_shares": -7000
+        "net_shares": -13500
       },
       "JPM": {
         "score": -1.0,
-        "net_shares": -2500
+        "net_shares": -5000
       },
       "V": {
         "score": -1.0,
-        "net_shares": -93591
+        "net_shares": -103361
       },
       "UNH": {
         "score": -1.0,
@@ -202,35 +217,35 @@
       },
       "MA": {
         "score": -1.0,
-        "net_shares": -97517
+        "net_shares": -111341
       },
       "HD": {
         "score": -1.0,
-        "net_shares": -3165
+        "net_shares": -9829
       },
       "PG": {
         "score": -1.0,
-        "net_shares": -37867
+        "net_shares": -46511
       },
       "NFLX": {
         "score": -1.0,
-        "net_shares": -177605
+        "net_shares": -179765
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -38404
+        "net_shares": -219838
       },
       "JNJ": {
         "score": -1.0,
-        "net_shares": -210743
+        "net_shares": -259340
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -61029
+        "net_shares": -83904
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -932375
+        "net_shares": -982375
       },
       "PEP": {
         "score": -1.0,
@@ -238,27 +253,51 @@
       },
       "ADBE": {
         "score": -1.0,
-        "net_shares": -416
+        "net_shares": -125416
+      },
+      "CRM": {
+        "score": -0.037,
+        "net_shares": -324
       },
       "CVX": {
         "score": -1.0,
-        "net_shares": -830256
+        "net_shares": -1166626
       },
       "MRK": {
         "score": -1.0,
         "net_shares": -228238
       },
+      "ABBV": {
+        "score": -1.0,
+        "net_shares": -32710
+      },
+      "ORCL": {
+        "score": -1.0,
+        "net_shares": -36075
+      },
+      "CSCO": {
+        "score": -1.0,
+        "net_shares": -54130
+      },
+      "INTC": {
+        "score": 1.0,
+        "net_shares": 105263
+      },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -8408
+        "net_shares": -21533
       },
       "TXN": {
         "score": -1.0,
         "net_shares": -7000
       },
+      "DIS": {
+        "score": -1.0,
+        "net_shares": -14452
+      },
       "VZ": {
         "score": -1.0,
-        "net_shares": -1100
+        "net_shares": -6600
       },
       "PFE": {
         "score": 0.945,
@@ -266,7 +305,7 @@
       },
       "NKE": {
         "score": -1.0,
-        "net_shares": -9565
+        "net_shares": -19441
       },
       "GE": {
         "score": -1.0,
