@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-09-30T01:27:05+00:00",
+  "generated_at": "2026-10-01T01:26:34+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-09-30",
+    "as_of": "2026-10-01",
     "scanned": 40,
     "with_activity": 36,
     "accumulating": [
@@ -98,9 +98,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -92871,
+        "net_shares": -90844,
         "buys": 0,
-        "sells": 8
+        "sells": 7
       },
       {
         "ticker": "UNH",
@@ -112,9 +112,9 @@
       {
         "ticker": "MA",
         "score": -1.0,
-        "net_shares": -92253,
+        "net_shares": -90276,
         "buys": 0,
-        "sells": 45
+        "sells": 44
       },
       {
         "ticker": "HD",
@@ -209,7 +209,7 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -92871
+        "net_shares": -90844
       },
       "UNH": {
         "score": -1.0,
@@ -217,7 +217,7 @@
       },
       "MA": {
         "score": -1.0,
-        "net_shares": -92253
+        "net_shares": -90276
       },
       "HD": {
         "score": -1.0,
