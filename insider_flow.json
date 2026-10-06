@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-10-03T01:19:49+00:00",
+  "generated_at": "2026-10-06T02:26:48+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-10-03",
+    "as_of": "2026-10-06",
     "scanned": 40,
     "with_activity": 36,
     "accumulating": [
@@ -56,16 +56,16 @@
       {
         "ticker": "GOOGL",
         "score": -1.0,
-        "net_shares": -613,
+        "net_shares": -696,
         "buys": 0,
-        "sells": 3
+        "sells": 4
       },
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -153360,
+        "net_shares": -148125,
         "buys": 0,
-        "sells": 103
+        "sells": 93
       },
       {
         "ticker": "TSLA",
@@ -98,9 +98,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -90844,
+        "net_shares": -96719,
         "buys": 0,
-        "sells": 7
+        "sells": 8
       },
       {
         "ticker": "UNH",
@@ -112,9 +112,9 @@
       {
         "ticker": "MA",
         "score": -1.0,
-        "net_shares": -90276,
+        "net_shares": -89876,
         "buys": 0,
-        "sells": 44
+        "sells": 42
       },
       {
         "ticker": "HD",
@@ -154,9 +154,9 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -80129,
+        "net_shares": -84119,
         "buys": 0,
-        "sells": 10
+        "sells": 11
       },
       {
         "ticker": "KO",
@@ -185,11 +185,11 @@
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -613
+        "net_shares": -696
       },
       "META": {
         "score": -1.0,
-        "net_shares": -153360
+        "net_shares": -148125
       },
       "TSLA": {
         "score": -1.0,
@@ -209,7 +209,7 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -90844
+        "net_shares": -96719
       },
       "UNH": {
         "score": -1.0,
@@ -217,7 +217,7 @@
       },
       "MA": {
         "score": -1.0,
-        "net_shares": -90276
+        "net_shares": -89876
       },
       "HD": {
         "score": -1.0,
@@ -241,7 +241,7 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -80129
+        "net_shares": -84119
       },
       "KO": {
         "score": -1.0,
@@ -285,7 +285,7 @@
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -31533
+        "net_shares": -31631
       },
       "TXN": {
         "score": -1.0,
