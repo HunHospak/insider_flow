@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-10-06T02:26:48+00:00",
+  "generated_at": "2026-10-07T01:44:59+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-10-06",
+    "as_of": "2026-10-07",
     "scanned": 40,
     "with_activity": 36,
     "accumulating": [
@@ -28,9 +28,9 @@
       {
         "ticker": "AAPL",
         "score": -1.0,
-        "net_shares": -13430,
+        "net_shares": -276984,
         "buys": 0,
-        "sells": 8
+        "sells": 18
       },
       {
         "ticker": "MSFT",
@@ -49,9 +49,9 @@
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -1280238,
+        "net_shares": -1281238,
         "buys": 0,
-        "sells": 26
+        "sells": 27
       },
       {
         "ticker": "GOOGL",
@@ -77,9 +77,9 @@
       {
         "ticker": "AVGO",
         "score": -1.0,
-        "net_shares": -754080,
+        "net_shares": -727190,
         "buys": 0,
-        "sells": 19
+        "sells": 17
       },
       {
         "ticker": "LLY",
@@ -169,7 +169,7 @@
     "by_ticker": {
       "AAPL": {
         "score": -1.0,
-        "net_shares": -13430
+        "net_shares": -276984
       },
       "MSFT": {
         "score": -1.0,
@@ -181,7 +181,7 @@
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -1280238
+        "net_shares": -1281238
       },
       "GOOGL": {
         "score": -1.0,
@@ -197,7 +197,7 @@
       },
       "AVGO": {
         "score": -1.0,
-        "net_shares": -754080
+        "net_shares": -727190
       },
       "LLY": {
         "score": -1.0,
