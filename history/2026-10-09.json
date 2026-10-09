@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-10-08T02:12:45+00:00",
+  "generated_at": "2026-10-09T02:26:53+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-10-08",
+    "as_of": "2026-10-09",
     "scanned": 40,
     "with_activity": 36,
     "accumulating": [
@@ -63,9 +63,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -148125,
+        "net_shares": -149700,
         "buys": 0,
-        "sells": 93
+        "sells": 98
       },
       {
         "ticker": "TSLA",
@@ -77,9 +77,9 @@
       {
         "ticker": "AVGO",
         "score": -1.0,
-        "net_shares": -727190,
+        "net_shares": -702190,
         "buys": 0,
-        "sells": 17
+        "sells": 16
       },
       {
         "ticker": "LLY",
@@ -189,7 +189,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -148125
+        "net_shares": -149700
       },
       "TSLA": {
         "score": -1.0,
@@ -197,7 +197,7 @@
       },
       "AVGO": {
         "score": -1.0,
-        "net_shares": -727190
+        "net_shares": -702190
       },
       "LLY": {
         "score": -1.0,
@@ -297,7 +297,7 @@
       },
       "VZ": {
         "score": -1.0,
-        "net_shares": -6600
+        "net_shares": -7700
       },
       "PFE": {
         "score": 0.945,
