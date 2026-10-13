@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-10-10T01:52:41+00:00",
+  "generated_at": "2026-10-13T03:08:19+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-10-10",
+    "as_of": "2026-10-13",
     "scanned": 40,
     "with_activity": 36,
     "accumulating": [
@@ -63,9 +63,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -149700,
+        "net_shares": -147537,
         "buys": 0,
-        "sells": 98
+        "sells": 93
       },
       {
         "ticker": "TSLA",
@@ -112,9 +112,9 @@
       {
         "ticker": "MA",
         "score": -1.0,
-        "net_shares": -89876,
+        "net_shares": -89676,
         "buys": 0,
-        "sells": 42
+        "sells": 41
       },
       {
         "ticker": "HD",
@@ -189,7 +189,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -149700
+        "net_shares": -147537
       },
       "TSLA": {
         "score": -1.0,
@@ -217,7 +217,7 @@
       },
       "MA": {
         "score": -1.0,
-        "net_shares": -89876
+        "net_shares": -89676
       },
       "HD": {
         "score": -1.0,
@@ -285,7 +285,7 @@
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -31631
+        "net_shares": -29131
       },
       "TXN": {
         "score": -1.0,
@@ -293,7 +293,7 @@
       },
       "DIS": {
         "score": -1.0,
-        "net_shares": -14452
+        "net_shares": -18070
       },
       "VZ": {
         "score": -1.0,
