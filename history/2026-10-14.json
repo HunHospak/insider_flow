@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-10-13T03:08:19+00:00",
+  "generated_at": "2026-10-14T01:21:03+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-14",
     "scanned": 40,
     "with_activity": 36,
     "accumulating": [
@@ -112,9 +112,9 @@
       {
         "ticker": "MA",
         "score": -1.0,
-        "net_shares": -89676,
+        "net_shares": -69732,
         "buys": 0,
-        "sells": 41
+        "sells": 32
       },
       {
         "ticker": "HD",
@@ -140,9 +140,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -219838,
+        "net_shares": -213838,
         "buys": 0,
-        "sells": 78
+        "sells": 77
       },
       {
         "ticker": "JNJ",
@@ -217,7 +217,7 @@
       },
       "MA": {
         "score": -1.0,
-        "net_shares": -89676
+        "net_shares": -69732
       },
       "HD": {
         "score": -1.0,
@@ -233,7 +233,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -219838
+        "net_shares": -213838
       },
       "JNJ": {
         "score": -1.0,
