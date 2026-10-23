@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-10-22T00:50:36+00:00",
+  "generated_at": "2026-10-23T00:51:16+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-10-22",
+    "as_of": "2026-10-23",
     "scanned": 40,
     "with_activity": 37,
     "accumulating": [
@@ -70,9 +70,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -147646,
+        "net_shares": -149221,
         "buys": 0,
-        "sells": 93
+        "sells": 98
       },
       {
         "ticker": "TSLA",
@@ -196,7 +196,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -147646
+        "net_shares": -149221
       },
       "TSLA": {
         "score": -1.0,
@@ -272,7 +272,7 @@
       },
       "CVX": {
         "score": -1.0,
-        "net_shares": -1166626
+        "net_shares": -1209726
       },
       "MRK": {
         "score": -1.0,
@@ -308,7 +308,7 @@
       },
       "VZ": {
         "score": -1.0,
-        "net_shares": -8800
+        "net_shares": -9900
       },
       "PFE": {
         "score": 0.945,
@@ -320,7 +320,7 @@
       },
       "GE": {
         "score": -1.0,
-        "net_shares": -18338
+        "net_shares": -10242
       }
     },
     "disclaimer": "Open-market insider (Form 4) activity. Informational only, not investment advice."
