@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-10-23T00:51:16+00:00",
+  "generated_at": "2026-10-24T00:58:00+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-10-24",
     "scanned": 40,
     "with_activity": 37,
     "accumulating": [
@@ -35,9 +35,9 @@
       {
         "ticker": "AAPL",
         "score": -1.0,
-        "net_shares": -281782,
+        "net_shares": -284181,
         "buys": 0,
-        "sells": 20
+        "sells": 21
       },
       {
         "ticker": "MSFT",
@@ -176,7 +176,7 @@
     "by_ticker": {
       "AAPL": {
         "score": -1.0,
-        "net_shares": -281782
+        "net_shares": -284181
       },
       "MSFT": {
         "score": -1.0,
