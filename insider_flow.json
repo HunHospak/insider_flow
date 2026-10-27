@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-10-24T00:58:00+00:00",
+  "generated_at": "2026-10-27T01:35:40+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-10-24",
+    "as_of": "2026-10-27",
     "scanned": 40,
     "with_activity": 37,
     "accumulating": [
@@ -17,17 +17,17 @@
         "sells": 0
       },
       {
-        "ticker": "PEP",
-        "score": 0.969,
-        "net_shares": 181746,
-        "buys": 4,
-        "sells": 1
-      },
-      {
         "ticker": "PFE",
         "score": 0.945,
         "net_shares": 111585,
         "buys": 3,
+        "sells": 1
+      },
+      {
+        "ticker": "PEP",
+        "score": 0.72,
+        "net_shares": 154646,
+        "buys": 4,
         "sells": 1
       }
     ],
@@ -70,9 +70,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -149221,
+        "net_shares": -147755,
         "buys": 0,
-        "sells": 98
+        "sells": 93
       },
       {
         "ticker": "TSLA",
@@ -196,7 +196,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -149221
+        "net_shares": -147755
       },
       "TSLA": {
         "score": -1.0,
@@ -256,11 +256,11 @@
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -982375
+        "net_shares": -525508
       },
       "PEP": {
-        "score": 0.969,
-        "net_shares": 181746
+        "score": 0.72,
+        "net_shares": 154646
       },
       "ADBE": {
         "score": -1.0,
