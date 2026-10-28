@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-10-27T01:35:40+00:00",
+  "generated_at": "2026-10-28T01:33:48+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-10-27",
+    "as_of": "2026-10-28",
     "scanned": 40,
     "with_activity": 37,
     "accumulating": [
@@ -63,9 +63,9 @@
       {
         "ticker": "GOOGL",
         "score": -1.0,
-        "net_shares": -696,
+        "net_shares": -247,
         "buys": 0,
-        "sells": 4
+        "sells": 3
       },
       {
         "ticker": "META",
@@ -140,9 +140,9 @@
       {
         "ticker": "PG",
         "score": -1.0,
-        "net_shares": -55019,
+        "net_shares": -98531,
         "buys": 0,
-        "sells": 18
+        "sells": 21
       },
       {
         "ticker": "NFLX",
@@ -192,7 +192,7 @@
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -696
+        "net_shares": -247
       },
       "META": {
         "score": -1.0,
@@ -236,7 +236,7 @@
       },
       "PG": {
         "score": -1.0,
-        "net_shares": -55019
+        "net_shares": -98531
       },
       "NFLX": {
         "score": -1.0,
@@ -256,7 +256,7 @@
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -525508
+        "net_shares": -379561
       },
       "PEP": {
         "score": 0.72,
@@ -264,7 +264,7 @@
       },
       "ADBE": {
         "score": -1.0,
-        "net_shares": -125416
+        "net_shares": -125000
       },
       "CRM": {
         "score": -0.037,
