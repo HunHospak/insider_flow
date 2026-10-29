@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-10-28T01:33:48+00:00",
+  "generated_at": "2026-10-29T01:55:16+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-10-28",
+    "as_of": "2026-10-29",
     "scanned": 40,
     "with_activity": 37,
     "accumulating": [
@@ -63,9 +63,9 @@
       {
         "ticker": "GOOGL",
         "score": -1.0,
-        "net_shares": -247,
+        "net_shares": -165,
         "buys": 0,
-        "sells": 3
+        "sells": 2
       },
       {
         "ticker": "META",
@@ -105,9 +105,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -96719,
+        "net_shares": -39447,
         "buys": 0,
-        "sells": 8
+        "sells": 6
       },
       {
         "ticker": "UNH",
@@ -147,9 +147,9 @@
       {
         "ticker": "NFLX",
         "score": -1.0,
-        "net_shares": -179765,
+        "net_shares": -197745,
         "buys": 0,
-        "sells": 10
+        "sells": 13
       },
       {
         "ticker": "AMD",
@@ -192,7 +192,7 @@
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -247
+        "net_shares": -165
       },
       "META": {
         "score": -1.0,
@@ -216,7 +216,7 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -96719
+        "net_shares": -39447
       },
       "UNH": {
         "score": -1.0,
@@ -240,7 +240,7 @@
       },
       "NFLX": {
         "score": -1.0,
-        "net_shares": -179765
+        "net_shares": -197745
       },
       "AMD": {
         "score": -1.0,
