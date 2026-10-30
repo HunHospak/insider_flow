@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-10-29T01:55:16+00:00",
+  "generated_at": "2026-10-30T02:06:17+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-10-29",
+    "as_of": "2026-10-30",
     "scanned": 40,
     "with_activity": 37,
     "accumulating": [
@@ -70,9 +70,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -147755,
+        "net_shares": -149256,
         "buys": 0,
-        "sells": 93
+        "sells": 98
       },
       {
         "ticker": "TSLA",
@@ -119,9 +119,9 @@
       {
         "ticker": "MA",
         "score": -1.0,
-        "net_shares": -70473,
+        "net_shares": -53845,
         "buys": 0,
-        "sells": 35
+        "sells": 34
       },
       {
         "ticker": "COST",
@@ -196,7 +196,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -147755
+        "net_shares": -149256
       },
       "TSLA": {
         "score": -1.0,
@@ -224,7 +224,7 @@
       },
       "MA": {
         "score": -1.0,
-        "net_shares": -70473
+        "net_shares": -53845
       },
       "COST": {
         "score": -1.0,
@@ -256,7 +256,7 @@
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -379561
+        "net_shares": -227078
       },
       "PEP": {
         "score": 0.72,
@@ -308,7 +308,7 @@
       },
       "VZ": {
         "score": -1.0,
-        "net_shares": -9900
+        "net_shares": -11000
       },
       "PFE": {
         "score": 0.945,
