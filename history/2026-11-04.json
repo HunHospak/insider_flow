@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-03T03:39:10+00:00",
+  "generated_at": "2026-11-04T02:35:42+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-03",
+    "as_of": "2026-11-04",
     "scanned": 40,
     "with_activity": 37,
     "accumulating": [
@@ -18,10 +18,10 @@
       },
       {
         "ticker": "PFE",
-        "score": 0.945,
-        "net_shares": 111585,
-        "buys": 3,
-        "sells": 1
+        "score": 1.0,
+        "net_shares": 38000,
+        "buys": 1,
+        "sells": 0
       },
       {
         "ticker": "PEP",
@@ -42,9 +42,9 @@
       {
         "ticker": "MSFT",
         "score": -1.0,
-        "net_shares": -145504,
+        "net_shares": -135504,
         "buys": 0,
-        "sells": 18
+        "sells": 17
       },
       {
         "ticker": "NVDA",
@@ -105,23 +105,23 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -39447,
+        "net_shares": -40052,
         "buys": 0,
-        "sells": 6
+        "sells": 7
       },
       {
         "ticker": "UNH",
         "score": -1.0,
-        "net_shares": -1669,
+        "net_shares": -1169,
         "buys": 0,
-        "sells": 2
+        "sells": 1
       },
       {
         "ticker": "MA",
         "score": -1.0,
-        "net_shares": -32937,
+        "net_shares": -14565,
         "buys": 0,
-        "sells": 25
+        "sells": 17
       },
       {
         "ticker": "COST",
@@ -147,9 +147,9 @@
       {
         "ticker": "NFLX",
         "score": -1.0,
-        "net_shares": -58860,
+        "net_shares": -56700,
         "buys": 0,
-        "sells": 9
+        "sells": 8
       },
       {
         "ticker": "AMD",
@@ -161,9 +161,9 @@
       {
         "ticker": "JNJ",
         "score": -1.0,
-        "net_shares": -236286,
+        "net_shares": -187806,
         "buys": 0,
-        "sells": 9
+        "sells": 7
       },
       {
         "ticker": "WMT",
@@ -180,7 +180,7 @@
       },
       "MSFT": {
         "score": -1.0,
-        "net_shares": -145504
+        "net_shares": -135504
       },
       "NVDA": {
         "score": -1.0,
@@ -216,15 +216,15 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -39447
+        "net_shares": -40052
       },
       "UNH": {
         "score": -1.0,
-        "net_shares": -1669
+        "net_shares": -1169
       },
       "MA": {
         "score": -1.0,
-        "net_shares": -32937
+        "net_shares": -14565
       },
       "COST": {
         "score": -1.0,
@@ -240,7 +240,7 @@
       },
       "NFLX": {
         "score": -1.0,
-        "net_shares": -58860
+        "net_shares": -56700
       },
       "AMD": {
         "score": -1.0,
@@ -248,7 +248,7 @@
       },
       "JNJ": {
         "score": -1.0,
-        "net_shares": -236286
+        "net_shares": -187806
       },
       "WMT": {
         "score": -1.0,
@@ -272,11 +272,11 @@
       },
       "CVX": {
         "score": -1.0,
-        "net_shares": -399061
+        "net_shares": -393514
       },
       "MRK": {
         "score": -1.0,
-        "net_shares": -228238
+        "net_shares": -156685
       },
       "ABBV": {
         "score": -1.0,
@@ -311,12 +311,12 @@
         "net_shares": -11000
       },
       "PFE": {
-        "score": 0.945,
-        "net_shares": 111585
+        "score": 1.0,
+        "net_shares": 38000
       },
       "NKE": {
         "score": -1.0,
-        "net_shares": -19441
+        "net_shares": -14743
       },
       "GE": {
         "score": -1.0,
