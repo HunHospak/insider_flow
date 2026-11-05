@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-04T02:35:42+00:00",
+  "generated_at": "2026-11-05T02:41:56+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "scanned": 40,
-    "with_activity": 37,
+    "with_activity": 38,
     "accumulating": [
       {
         "ticker": "INTC",
@@ -21,6 +21,13 @@
         "score": 1.0,
         "net_shares": 38000,
         "buys": 1,
+        "sells": 0
+      },
+      {
+        "ticker": "BA",
+        "score": 1.0,
+        "net_shares": 8770,
+        "buys": 2,
         "sells": 0
       },
       {
@@ -91,9 +98,9 @@
       {
         "ticker": "LLY",
         "score": -1.0,
-        "net_shares": -13500,
+        "net_shares": -18500,
         "buys": 0,
-        "sells": 3
+        "sells": 4
       },
       {
         "ticker": "JPM",
@@ -105,9 +112,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -40052,
+        "net_shares": -80345,
         "buys": 0,
-        "sells": 7
+        "sells": 9
       },
       {
         "ticker": "UNH",
@@ -119,9 +126,9 @@
       {
         "ticker": "MA",
         "score": -1.0,
-        "net_shares": -14565,
+        "net_shares": -23200,
         "buys": 0,
-        "sells": 17
+        "sells": 19
       },
       {
         "ticker": "COST",
@@ -140,16 +147,16 @@
       {
         "ticker": "PG",
         "score": -1.0,
-        "net_shares": -98531,
+        "net_shares": -167969,
         "buys": 0,
-        "sells": 21
+        "sells": 25
       },
       {
         "ticker": "NFLX",
         "score": -1.0,
-        "net_shares": -56700,
+        "net_shares": -29388,
         "buys": 0,
-        "sells": 8
+        "sells": 7
       },
       {
         "ticker": "AMD",
@@ -161,16 +168,16 @@
       {
         "ticker": "JNJ",
         "score": -1.0,
-        "net_shares": -187806,
+        "net_shares": -171888,
         "buys": 0,
-        "sells": 7
+        "sells": 5
       },
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -98534,
+        "net_shares": -268222,
         "buys": 0,
-        "sells": 13
+        "sells": 15
       }
     ],
     "by_ticker": {
@@ -208,7 +215,7 @@
       },
       "LLY": {
         "score": -1.0,
-        "net_shares": -13500
+        "net_shares": -18500
       },
       "JPM": {
         "score": -1.0,
@@ -216,7 +223,7 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -40052
+        "net_shares": -80345
       },
       "UNH": {
         "score": -1.0,
@@ -224,7 +231,7 @@
       },
       "MA": {
         "score": -1.0,
-        "net_shares": -14565
+        "net_shares": -23200
       },
       "COST": {
         "score": -1.0,
@@ -236,11 +243,11 @@
       },
       "PG": {
         "score": -1.0,
-        "net_shares": -98531
+        "net_shares": -167969
       },
       "NFLX": {
         "score": -1.0,
-        "net_shares": -56700
+        "net_shares": -29388
       },
       "AMD": {
         "score": -1.0,
@@ -248,15 +255,15 @@
       },
       "JNJ": {
         "score": -1.0,
-        "net_shares": -187806
+        "net_shares": -171888
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -98534
+        "net_shares": -268222
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -227078
+        "net_shares": -171323
       },
       "PEP": {
         "score": 0.72,
@@ -276,7 +283,7 @@
       },
       "MRK": {
         "score": -1.0,
-        "net_shares": -156685
+        "net_shares": -135635
       },
       "ABBV": {
         "score": -1.0,
@@ -304,7 +311,7 @@
       },
       "DIS": {
         "score": -1.0,
-        "net_shares": -18070
+        "net_shares": -24544
       },
       "VZ": {
         "score": -1.0,
@@ -321,6 +328,10 @@
       "GE": {
         "score": -1.0,
         "net_shares": -10242
+      },
+      "BA": {
+        "score": 1.0,
+        "net_shares": 8770
       }
     },
     "disclaimer": "Open-market insider (Form 4) activity. Informational only, not investment advice."
