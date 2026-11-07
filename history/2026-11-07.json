@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-06T02:44:49+00:00",
+  "generated_at": "2026-11-07T02:14:13+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "scanned": 40,
     "with_activity": 38,
     "accumulating": [
@@ -42,9 +42,9 @@
       {
         "ticker": "AAPL",
         "score": -1.0,
-        "net_shares": -286580,
+        "net_shares": -288979,
         "buys": 0,
-        "sells": 22
+        "sells": 23
       },
       {
         "ticker": "MSFT",
@@ -112,9 +112,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -80345,
+        "net_shares": -114762,
         "buys": 0,
-        "sells": 9
+        "sells": 12
       },
       {
         "ticker": "UNH",
@@ -147,16 +147,16 @@
       {
         "ticker": "PG",
         "score": -1.0,
-        "net_shares": -167969,
+        "net_shares": -201593,
         "buys": 0,
-        "sells": 25
+        "sells": 26
       },
       {
         "ticker": "NFLX",
         "score": -1.0,
-        "net_shares": -35115,
+        "net_shares": -71680,
         "buys": 0,
-        "sells": 8
+        "sells": 10
       },
       {
         "ticker": "AMD",
@@ -183,7 +183,7 @@
     "by_ticker": {
       "AAPL": {
         "score": -1.0,
-        "net_shares": -286580
+        "net_shares": -288979
       },
       "MSFT": {
         "score": -1.0,
@@ -223,7 +223,7 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -80345
+        "net_shares": -114762
       },
       "UNH": {
         "score": -1.0,
@@ -243,11 +243,11 @@
       },
       "PG": {
         "score": -1.0,
-        "net_shares": -167969
+        "net_shares": -201593
       },
       "NFLX": {
         "score": -1.0,
-        "net_shares": -35115
+        "net_shares": -71680
       },
       "AMD": {
         "score": -1.0,
@@ -311,7 +311,7 @@
       },
       "DIS": {
         "score": -1.0,
-        "net_shares": -24544
+        "net_shares": -28162
       },
       "VZ": {
         "score": -1.0,
@@ -327,7 +327,7 @@
       },
       "GE": {
         "score": -1.0,
-        "net_shares": -10242
+        "net_shares": -25038
       },
       "BA": {
         "score": 1.0,
