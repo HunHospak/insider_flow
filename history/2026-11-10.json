@@ -1,19 +1,19 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-07T02:14:13+00:00",
+  "generated_at": "2026-11-10T04:16:21+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-07",
+    "as_of": "2026-11-10",
     "scanned": 40,
     "with_activity": 38,
     "accumulating": [
       {
         "ticker": "INTC",
         "score": 1.0,
-        "net_shares": 255263,
-        "buys": 2,
+        "net_shares": 150000,
+        "buys": 1,
         "sells": 0
       },
       {
@@ -42,9 +42,9 @@
       {
         "ticker": "AAPL",
         "score": -1.0,
-        "net_shares": -288979,
+        "net_shares": -287540,
         "buys": 0,
-        "sells": 23
+        "sells": 22
       },
       {
         "ticker": "MSFT",
@@ -77,9 +77,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -170856,
+        "net_shares": -169164,
         "buys": 0,
-        "sells": 106
+        "sells": 97
       },
       {
         "ticker": "TSLA",
@@ -98,16 +98,16 @@
       {
         "ticker": "LLY",
         "score": -1.0,
-        "net_shares": -13500,
+        "net_shares": -11500,
         "buys": 0,
-        "sells": 3
+        "sells": 2
       },
       {
         "ticker": "JPM",
         "score": -1.0,
-        "net_shares": -5000,
+        "net_shares": -2500,
         "buys": 0,
-        "sells": 2
+        "sells": 1
       },
       {
         "ticker": "V",
@@ -154,16 +154,16 @@
       {
         "ticker": "NFLX",
         "score": -1.0,
-        "net_shares": -71680,
+        "net_shares": -62432,
         "buys": 0,
-        "sells": 10
+        "sells": 9
       },
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -213838,
+        "net_shares": -213695,
         "buys": 0,
-        "sells": 77
+        "sells": 76
       },
       {
         "ticker": "JNJ",
@@ -183,7 +183,7 @@
     "by_ticker": {
       "AAPL": {
         "score": -1.0,
-        "net_shares": -288979
+        "net_shares": -287540
       },
       "MSFT": {
         "score": -1.0,
@@ -203,7 +203,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -170856
+        "net_shares": -169164
       },
       "TSLA": {
         "score": -1.0,
@@ -215,11 +215,11 @@
       },
       "LLY": {
         "score": -1.0,
-        "net_shares": -13500
+        "net_shares": -11500
       },
       "JPM": {
         "score": -1.0,
-        "net_shares": -5000
+        "net_shares": -2500
       },
       "V": {
         "score": -1.0,
@@ -247,11 +247,11 @@
       },
       "NFLX": {
         "score": -1.0,
-        "net_shares": -71680
+        "net_shares": -62432
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -213838
+        "net_shares": -213695
       },
       "JNJ": {
         "score": -1.0,
@@ -263,7 +263,7 @@
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -238871
+        "net_shares": -228913
       },
       "PEP": {
         "score": 0.72,
@@ -279,11 +279,11 @@
       },
       "CVX": {
         "score": -1.0,
-        "net_shares": -417953
+        "net_shares": -403909
       },
       "MRK": {
         "score": -1.0,
-        "net_shares": -135635
+        "net_shares": -102014
       },
       "ABBV": {
         "score": -1.0,
@@ -299,11 +299,11 @@
       },
       "INTC": {
         "score": 1.0,
-        "net_shares": 255263
+        "net_shares": 150000
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -30258
+        "net_shares": -31820
       },
       "TXN": {
         "score": -1.0,
@@ -311,7 +311,7 @@
       },
       "DIS": {
         "score": -1.0,
-        "net_shares": -28162
+        "net_shares": -48714
       },
       "VZ": {
         "score": -1.0,
@@ -327,7 +327,7 @@
       },
       "GE": {
         "score": -1.0,
-        "net_shares": -25038
+        "net_shares": -14796
       },
       "BA": {
         "score": 1.0,
