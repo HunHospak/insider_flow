@@ -1,25 +1,18 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-10T04:16:21+00:00",
+  "generated_at": "2026-11-11T02:06:56+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-10",
+    "as_of": "2026-11-11",
     "scanned": 40,
-    "with_activity": 38,
+    "with_activity": 37,
     "accumulating": [
       {
         "ticker": "INTC",
         "score": 1.0,
         "net_shares": 150000,
-        "buys": 1,
-        "sells": 0
-      },
-      {
-        "ticker": "PFE",
-        "score": 1.0,
-        "net_shares": 38000,
         "buys": 1,
         "sells": 0
       },
@@ -147,9 +140,9 @@
       {
         "ticker": "PG",
         "score": -1.0,
-        "net_shares": -201593,
+        "net_shares": -237640,
         "buys": 0,
-        "sells": 26
+        "sells": 28
       },
       {
         "ticker": "NFLX",
@@ -243,7 +236,7 @@
       },
       "PG": {
         "score": -1.0,
-        "net_shares": -201593
+        "net_shares": -237640
       },
       "NFLX": {
         "score": -1.0,
@@ -263,7 +256,7 @@
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -228913
+        "net_shares": -249498
       },
       "PEP": {
         "score": 0.72,
@@ -283,7 +276,7 @@
       },
       "MRK": {
         "score": -1.0,
-        "net_shares": -102014
+        "net_shares": -10000
       },
       "ABBV": {
         "score": -1.0,
@@ -303,7 +296,7 @@
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -31820
+        "net_shares": -32520
       },
       "TXN": {
         "score": -1.0,
@@ -316,10 +309,6 @@
       "VZ": {
         "score": -1.0,
         "net_shares": -12100
-      },
-      "PFE": {
-        "score": 1.0,
-        "net_shares": 38000
       },
       "NKE": {
         "score": -1.0,
