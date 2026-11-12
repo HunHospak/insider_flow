@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-11T02:06:56+00:00",
+  "generated_at": "2026-11-12T03:16:25+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-11",
+    "as_of": "2026-11-12",
     "scanned": 40,
-    "with_activity": 37,
+    "with_activity": 36,
     "accumulating": [
       {
         "ticker": "INTC",
@@ -42,9 +42,9 @@
       {
         "ticker": "MSFT",
         "score": -1.0,
-        "net_shares": -135504,
+        "net_shares": -142809,
         "buys": 0,
-        "sells": 17
+        "sells": 19
       },
       {
         "ticker": "NVDA",
@@ -105,9 +105,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -114762,
+        "net_shares": -116629,
         "buys": 0,
-        "sells": 12
+        "sells": 13
       },
       {
         "ticker": "UNH",
@@ -147,9 +147,9 @@
       {
         "ticker": "NFLX",
         "score": -1.0,
-        "net_shares": -62432,
+        "net_shares": -89744,
         "buys": 0,
-        "sells": 9
+        "sells": 10
       },
       {
         "ticker": "AMD",
@@ -161,9 +161,9 @@
       {
         "ticker": "JNJ",
         "score": -1.0,
-        "net_shares": -171888,
+        "net_shares": -48597,
         "buys": 0,
-        "sells": 5
+        "sells": 3
       },
       {
         "ticker": "WMT",
@@ -180,7 +180,7 @@
       },
       "MSFT": {
         "score": -1.0,
-        "net_shares": -135504
+        "net_shares": -142809
       },
       "NVDA": {
         "score": -1.0,
@@ -216,7 +216,7 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -114762
+        "net_shares": -116629
       },
       "UNH": {
         "score": -1.0,
@@ -240,7 +240,7 @@
       },
       "NFLX": {
         "score": -1.0,
-        "net_shares": -62432
+        "net_shares": -89744
       },
       "AMD": {
         "score": -1.0,
@@ -248,7 +248,7 @@
       },
       "JNJ": {
         "score": -1.0,
-        "net_shares": -171888
+        "net_shares": -48597
       },
       "WMT": {
         "score": -1.0,
@@ -273,10 +273,6 @@
       "CVX": {
         "score": -1.0,
         "net_shares": -403909
-      },
-      "MRK": {
-        "score": -1.0,
-        "net_shares": -10000
       },
       "ABBV": {
         "score": -1.0,
