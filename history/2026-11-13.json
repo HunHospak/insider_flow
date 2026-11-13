@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-12T03:16:25+00:00",
+  "generated_at": "2026-11-13T02:50:05+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-12",
+    "as_of": "2026-11-13",
     "scanned": 40,
-    "with_activity": 36,
+    "with_activity": 35,
     "accumulating": [
       {
         "ticker": "INTC",
@@ -154,9 +154,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -213695,
+        "net_shares": -206326,
         "buys": 0,
-        "sells": 76
+        "sells": 75
       },
       {
         "ticker": "JNJ",
@@ -244,7 +244,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -213695
+        "net_shares": -206326
       },
       "JNJ": {
         "score": -1.0,
@@ -272,11 +272,7 @@
       },
       "CVX": {
         "score": -1.0,
-        "net_shares": -403909
-      },
-      "ABBV": {
-        "score": -1.0,
-        "net_shares": -32710
+        "net_shares": -86809
       },
       "ORCL": {
         "score": -0.181,
@@ -284,7 +280,7 @@
       },
       "CSCO": {
         "score": -1.0,
-        "net_shares": -54130
+        "net_shares": -10893
       },
       "INTC": {
         "score": 1.0,
@@ -300,7 +296,7 @@
       },
       "DIS": {
         "score": -1.0,
-        "net_shares": -48714
+        "net_shares": -41476
       },
       "VZ": {
         "score": -1.0,
