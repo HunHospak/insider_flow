@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-13T02:50:05+00:00",
+  "generated_at": "2026-11-14T02:37:45+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-13",
+    "as_of": "2026-11-14",
     "scanned": 40,
-    "with_activity": 35,
+    "with_activity": 36,
     "accumulating": [
       {
         "ticker": "INTC",
@@ -17,17 +17,17 @@
         "sells": 0
       },
       {
-        "ticker": "BA",
-        "score": 1.0,
-        "net_shares": 8770,
-        "buys": 2,
-        "sells": 0
-      },
-      {
         "ticker": "PEP",
         "score": 0.72,
         "net_shares": 154646,
         "buys": 4,
+        "sells": 1
+      },
+      {
+        "ticker": "BA",
+        "score": 0.491,
+        "net_shares": 5776,
+        "buys": 2,
         "sells": 1
       }
     ],
@@ -35,16 +35,16 @@
       {
         "ticker": "AAPL",
         "score": -1.0,
-        "net_shares": -287540,
+        "net_shares": -289939,
         "buys": 0,
-        "sells": 22
+        "sells": 23
       },
       {
         "ticker": "MSFT",
         "score": -1.0,
-        "net_shares": -142809,
+        "net_shares": -147809,
         "buys": 0,
-        "sells": 19
+        "sells": 20
       },
       {
         "ticker": "NVDA",
@@ -70,9 +70,9 @@
       {
         "ticker": "META",
         "score": -1.0,
-        "net_shares": -169164,
+        "net_shares": -168612,
         "buys": 0,
-        "sells": 97
+        "sells": 101
       },
       {
         "ticker": "TSLA",
@@ -105,9 +105,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -116629,
+        "net_shares": -120030,
         "buys": 0,
-        "sells": 13
+        "sells": 14
       },
       {
         "ticker": "UNH",
@@ -126,9 +126,9 @@
       {
         "ticker": "COST",
         "score": -1.0,
-        "net_shares": -1100,
+        "net_shares": -2000,
         "buys": 0,
-        "sells": 1
+        "sells": 2
       },
       {
         "ticker": "HD",
@@ -140,9 +140,9 @@
       {
         "ticker": "PG",
         "score": -1.0,
-        "net_shares": -237640,
+        "net_shares": -239890,
         "buys": 0,
-        "sells": 28
+        "sells": 29
       },
       {
         "ticker": "NFLX",
@@ -176,11 +176,11 @@
     "by_ticker": {
       "AAPL": {
         "score": -1.0,
-        "net_shares": -287540
+        "net_shares": -289939
       },
       "MSFT": {
         "score": -1.0,
-        "net_shares": -142809
+        "net_shares": -147809
       },
       "NVDA": {
         "score": -1.0,
@@ -196,7 +196,7 @@
       },
       "META": {
         "score": -1.0,
-        "net_shares": -169164
+        "net_shares": -168612
       },
       "TSLA": {
         "score": -1.0,
@@ -216,7 +216,7 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -116629
+        "net_shares": -120030
       },
       "UNH": {
         "score": -1.0,
@@ -228,7 +228,7 @@
       },
       "COST": {
         "score": -1.0,
-        "net_shares": -1100
+        "net_shares": -2000
       },
       "HD": {
         "score": -1.0,
@@ -236,7 +236,7 @@
       },
       "PG": {
         "score": -1.0,
-        "net_shares": -237640
+        "net_shares": -239890
       },
       "NFLX": {
         "score": -1.0,
@@ -272,7 +272,11 @@
       },
       "CVX": {
         "score": -1.0,
-        "net_shares": -86809
+        "net_shares": -198809
+      },
+      "ABBV": {
+        "score": -1.0,
+        "net_shares": -40619
       },
       "ORCL": {
         "score": -0.181,
@@ -300,7 +304,7 @@
       },
       "VZ": {
         "score": -1.0,
-        "net_shares": -12100
+        "net_shares": -13200
       },
       "NKE": {
         "score": -1.0,
@@ -308,11 +312,11 @@
       },
       "GE": {
         "score": -1.0,
-        "net_shares": -14796
+        "net_shares": -22796
       },
       "BA": {
-        "score": 1.0,
-        "net_shares": 8770
+        "score": 0.491,
+        "net_shares": 5776
       }
     },
     "disclaimer": "Open-market insider (Form 4) activity. Informational only, not investment advice."
