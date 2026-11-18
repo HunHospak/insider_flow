@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-17T04:43:25+00:00",
+  "generated_at": "2026-11-18T03:48:23+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-17",
+    "as_of": "2026-11-18",
     "scanned": 40,
-    "with_activity": 36,
+    "with_activity": 37,
     "accumulating": [
       {
         "ticker": "INTC",
@@ -63,9 +63,9 @@
       {
         "ticker": "GOOGL",
         "score": -1.0,
-        "net_shares": -247,
+        "net_shares": -547,
         "buys": 0,
-        "sells": 3
+        "sells": 4
       },
       {
         "ticker": "META",
@@ -119,9 +119,9 @@
       {
         "ticker": "MA",
         "score": -1.0,
-        "net_shares": -22009,
+        "net_shares": -14565,
         "buys": 0,
-        "sells": 18
+        "sells": 8
       },
       {
         "ticker": "COST",
@@ -133,16 +133,16 @@
       {
         "ticker": "HD",
         "score": -1.0,
-        "net_shares": -9829,
+        "net_shares": -3840,
         "buys": 0,
-        "sells": 4
+        "sells": 3
       },
       {
         "ticker": "PG",
         "score": -1.0,
-        "net_shares": -231246,
+        "net_shares": -228193,
         "buys": 0,
-        "sells": 28
+        "sells": 27
       },
       {
         "ticker": "NFLX",
@@ -192,7 +192,7 @@
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -247
+        "net_shares": -547
       },
       "META": {
         "score": -1.0,
@@ -224,7 +224,7 @@
       },
       "MA": {
         "score": -1.0,
-        "net_shares": -22009
+        "net_shares": -14565
       },
       "COST": {
         "score": -1.0,
@@ -232,11 +232,11 @@
       },
       "HD": {
         "score": -1.0,
-        "net_shares": -9829
+        "net_shares": -3840
       },
       "PG": {
         "score": -1.0,
-        "net_shares": -231246
+        "net_shares": -228193
       },
       "NFLX": {
         "score": -1.0,
@@ -256,7 +256,7 @@
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -264498
+        "net_shares": -214498
       },
       "PEP": {
         "score": 0.72,
@@ -274,6 +274,10 @@
         "score": -1.0,
         "net_shares": -185539
       },
+      "MRK": {
+        "score": -1.0,
+        "net_shares": -58185
+      },
       "ABBV": {
         "score": -1.0,
         "net_shares": -40619
@@ -284,7 +288,7 @@
       },
       "CSCO": {
         "score": -1.0,
-        "net_shares": -10893
+        "net_shares": -5061
       },
       "INTC": {
         "score": 1.0,
@@ -300,7 +304,7 @@
       },
       "DIS": {
         "score": -1.0,
-        "net_shares": -41476
+        "net_shares": -37880
       },
       "VZ": {
         "score": -1.0,
