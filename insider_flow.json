@@ -1,13 +1,13 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-19T03:46:11+00:00",
+  "generated_at": "2026-11-20T03:40:27+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-19",
+    "as_of": "2026-11-20",
     "scanned": 40,
-    "with_activity": 37,
+    "with_activity": 36,
     "accumulating": [
       {
         "ticker": "INTC",
@@ -25,9 +25,9 @@
       },
       {
         "ticker": "BA",
-        "score": 0.491,
-        "net_shares": 5776,
-        "buys": 2,
+        "score": 0.594,
+        "net_shares": 8776,
+        "buys": 3,
         "sells": 1
       }
     ],
@@ -35,9 +35,9 @@
       {
         "ticker": "AAPL",
         "score": -1.0,
-        "net_shares": -288500,
+        "net_shares": -378500,
         "buys": 0,
-        "sells": 22
+        "sells": 24
       },
       {
         "ticker": "MSFT",
@@ -56,9 +56,9 @@
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -71589,
+        "net_shares": -15999,
         "buys": 0,
-        "sells": 27
+        "sells": 8
       },
       {
         "ticker": "GOOGL",
@@ -105,16 +105,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -120030,
+        "net_shares": -96228,
         "buys": 0,
-        "sells": 14
-      },
-      {
-        "ticker": "UNH",
-        "score": -1.0,
-        "net_shares": -1169,
-        "buys": 0,
-        "sells": 1
+        "sells": 12
       },
       {
         "ticker": "MA",
@@ -140,9 +133,9 @@
       {
         "ticker": "PG",
         "score": -1.0,
-        "net_shares": -197173,
+        "net_shares": -193738,
         "buys": 0,
-        "sells": 16
+        "sells": 15
       },
       {
         "ticker": "NFLX",
@@ -154,9 +147,9 @@
       {
         "ticker": "AMD",
         "score": -1.0,
-        "net_shares": -163522,
+        "net_shares": -233522,
         "buys": 0,
-        "sells": 59
+        "sells": 82
       },
       {
         "ticker": "JNJ",
@@ -171,12 +164,19 @@
         "net_shares": -265322,
         "buys": 0,
         "sells": 14
+      },
+      {
+        "ticker": "KO",
+        "score": -1.0,
+        "net_shares": -169778,
+        "buys": 0,
+        "sells": 8
       }
     ],
     "by_ticker": {
       "AAPL": {
         "score": -1.0,
-        "net_shares": -288500
+        "net_shares": -378500
       },
       "MSFT": {
         "score": -1.0,
@@ -188,7 +188,7 @@
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -71589
+        "net_shares": -15999
       },
       "GOOGL": {
         "score": -1.0,
@@ -216,11 +216,7 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -120030
-      },
-      "UNH": {
-        "score": -1.0,
-        "net_shares": -1169
+        "net_shares": -96228
       },
       "MA": {
         "score": -1.0,
@@ -236,7 +232,7 @@
       },
       "PG": {
         "score": -1.0,
-        "net_shares": -197173
+        "net_shares": -193738
       },
       "NFLX": {
         "score": -1.0,
@@ -244,7 +240,7 @@
       },
       "AMD": {
         "score": -1.0,
-        "net_shares": -163522
+        "net_shares": -233522
       },
       "JNJ": {
         "score": -1.0,
@@ -256,7 +252,7 @@
       },
       "KO": {
         "score": -1.0,
-        "net_shares": -103133
+        "net_shares": -169778
       },
       "PEP": {
         "score": 0.72,
@@ -288,7 +284,7 @@
       },
       "CSCO": {
         "score": -1.0,
-        "net_shares": -197835
+        "net_shares": -484820
       },
       "INTC": {
         "score": 1.0,
@@ -296,7 +292,7 @@
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -32520
+        "net_shares": -31895
       },
       "TXN": {
         "score": -1.0,
@@ -308,7 +304,7 @@
       },
       "VZ": {
         "score": -1.0,
-        "net_shares": -12100
+        "net_shares": -13200
       },
       "NKE": {
         "score": -1.0,
@@ -316,11 +312,11 @@
       },
       "GE": {
         "score": -1.0,
-        "net_shares": -22796
+        "net_shares": -24819
       },
       "BA": {
-        "score": 0.491,
-        "net_shares": 5776
+        "score": 0.594,
+        "net_shares": 8776
       }
     },
     "disclaimer": "Open-market insider (Form 4) activity. Informational only, not investment advice."
