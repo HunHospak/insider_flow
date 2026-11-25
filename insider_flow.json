@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-24T06:17:13+00:00",
+  "generated_at": "2026-11-25T04:59:52+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-24",
+    "as_of": "2026-11-25",
     "scanned": 40,
     "with_activity": 36,
     "accumulating": [
@@ -49,9 +49,9 @@
       {
         "ticker": "NVDA",
         "score": -1.0,
-        "net_shares": -4332118,
+        "net_shares": -4362118,
         "buys": 0,
-        "sells": 25
+        "sells": 37
       },
       {
         "ticker": "AMZN",
@@ -105,9 +105,9 @@
       {
         "ticker": "V",
         "score": -1.0,
-        "net_shares": -96228,
+        "net_shares": -101689,
         "buys": 0,
-        "sells": 12
+        "sells": 14
       },
       {
         "ticker": "MA",
@@ -126,9 +126,9 @@
       {
         "ticker": "HD",
         "score": -1.0,
-        "net_shares": -23190,
+        "net_shares": -22480,
         "buys": 0,
-        "sells": 4
+        "sells": 3
       },
       {
         "ticker": "PG",
@@ -161,9 +161,9 @@
       {
         "ticker": "WMT",
         "score": -1.0,
-        "net_shares": -265322,
+        "net_shares": -249603,
         "buys": 0,
-        "sells": 14
+        "sells": 20
       },
       {
         "ticker": "KO",
@@ -184,7 +184,7 @@
       },
       "NVDA": {
         "score": -1.0,
-        "net_shares": -4332118
+        "net_shares": -4362118
       },
       "AMZN": {
         "score": -1.0,
@@ -216,7 +216,7 @@
       },
       "V": {
         "score": -1.0,
-        "net_shares": -96228
+        "net_shares": -101689
       },
       "MA": {
         "score": -1.0,
@@ -228,7 +228,7 @@
       },
       "HD": {
         "score": -1.0,
-        "net_shares": -23190
+        "net_shares": -22480
       },
       "PG": {
         "score": -1.0,
@@ -248,7 +248,7 @@
       },
       "WMT": {
         "score": -1.0,
-        "net_shares": -265322
+        "net_shares": -249603
       },
       "KO": {
         "score": -1.0,
@@ -292,7 +292,7 @@
       },
       "QCOM": {
         "score": -1.0,
-        "net_shares": -34395
+        "net_shares": -35023
       },
       "TXN": {
         "score": -1.0,
