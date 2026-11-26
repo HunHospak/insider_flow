@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-25T04:59:52+00:00",
+  "generated_at": "2026-11-26T04:18:07+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-25",
+    "as_of": "2026-11-26",
     "scanned": 40,
     "with_activity": 36,
     "accumulating": [
@@ -56,9 +56,9 @@
       {
         "ticker": "AMZN",
         "score": -1.0,
-        "net_shares": -7524,
+        "net_shares": -72372,
         "buys": 0,
-        "sells": 8
+        "sells": 55
       },
       {
         "ticker": "GOOGL",
@@ -188,7 +188,7 @@
       },
       "AMZN": {
         "score": -1.0,
-        "net_shares": -7524
+        "net_shares": -72372
       },
       "GOOGL": {
         "score": -1.0,
@@ -296,7 +296,7 @@
       },
       "TXN": {
         "score": -1.0,
-        "net_shares": -36726
+        "net_shares": -29726
       },
       "DIS": {
         "score": -1.0,
