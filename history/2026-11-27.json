@@ -1,11 +1,11 @@
 {
   "service": "insider_flow",
   "schema_version": "1.0",
-  "generated_at": "2026-11-26T04:18:07+00:00",
+  "generated_at": "2026-11-27T04:26:31+00:00",
   "status": "active",
   "ttl_hours": 48,
   "data": {
-    "as_of": "2026-11-26",
+    "as_of": "2026-11-27",
     "scanned": 40,
     "with_activity": 36,
     "accumulating": [
@@ -63,9 +63,9 @@
       {
         "ticker": "GOOGL",
         "score": -1.0,
-        "net_shares": -547,
+        "net_shares": -465,
         "buys": 0,
-        "sells": 4
+        "sells": 3
       },
       {
         "ticker": "META",
@@ -126,9 +126,9 @@
       {
         "ticker": "HD",
         "score": -1.0,
-        "net_shares": -22480,
+        "net_shares": -20025,
         "buys": 0,
-        "sells": 3
+        "sells": 2
       },
       {
         "ticker": "PG",
@@ -192,7 +192,7 @@
       },
       "GOOGL": {
         "score": -1.0,
-        "net_shares": -547
+        "net_shares": -465
       },
       "META": {
         "score": -1.0,
@@ -228,7 +228,7 @@
       },
       "HD": {
         "score": -1.0,
-        "net_shares": -22480
+        "net_shares": -20025
       },
       "PG": {
         "score": -1.0,
